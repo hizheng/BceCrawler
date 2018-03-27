@@ -1,0 +1,565 @@
+Mon, 26 Mar 2018 19:37:03 bce_spider.py[line:37] INFO No new bills in recent 7 days
+Mon, 26 Mar 2018 19:50:54 bce_spider.py[line:38] INFO Get the bill list from 2018-03-19T11:50:54Z to 2018-03-26T11:50:54Z
+Mon, 26 Mar 2018 19:50:54 bce_spider.py[line:43] INFO No new bills in recent 7 days
+Tue, 27 Mar 2018 11:01:33 bce_spider.py[line:44] INFO Crawl the bce payment info from 2018-03-20T03:01:33Z to 2018-03-27T03:01:33Z 
+Tue, 27 Mar 2018 11:01:33 bce_spider.py[line:50] INFO Get the bill list from 2018-03-20T03:01:33Z to 2018-03-27T03:01:33Z
+Tue, 27 Mar 2018 11:01:33 bce_spider.py[line:55] INFO No new bills in recent 7 days
+Tue, 27 Mar 2018 11:03:40 bce_spider.py[line:44] INFO Crawl the bce payment info from 2018-03-20T03:03:40Z to 2018-03-27T03:03:40Z 
+Tue, 27 Mar 2018 11:03:40 bce_spider.py[line:50] INFO Get the bill list from 2018-03-20T03:03:40Z to 2018-03-27T03:03:40Z
+Tue, 27 Mar 2018 11:03:40 bce_spider.py[line:56] INFO No new bills from 2018-03-20T03:03:40Z to 2018-03-27T03:03:40Z
+Tue, 27 Mar 2018 11:08:49 bce_spider.py[line:44] INFO Crawl the bce payment info from 2018-03-20T03:08:49Z to 2018-03-27T03:08:49Z 
+Tue, 27 Mar 2018 11:08:49 bce_spider.py[line:50] INFO Get the bill list from 2018-03-20T03:08:49Z to 2018-03-27T03:08:49Z
+Tue, 27 Mar 2018 11:08:50 bce_spider.py[line:56] INFO No new bills from 2018-03-20T03:08:49Z to 2018-03-27T03:08:49Z
+Tue, 27 Mar 2018 11:10:43 bce_spider.py[line:44] INFO Crawl the bce payment info from 2018-03-20T03:10:43Z to 2018-03-27T03:10:43Z 
+Tue, 27 Mar 2018 11:10:43 bce_spider.py[line:50] INFO Get the bill list from 2018-03-20T03:10:43Z to 2018-03-27T03:10:43Z
+Tue, 27 Mar 2018 11:10:43 bce_spider.py[line:56] INFO No new bills from 2018-03-20T03:10:43Z to 2018-03-27T03:10:43Z
+Tue, 27 Mar 2018 11:14:12 bce_spider.py[line:44] INFO Crawl the bce payment info from 2018-03-20T03:14:12Z to 2018-03-27T03:14:12Z 
+Tue, 27 Mar 2018 11:14:12 bce_spider.py[line:50] INFO Get the bill list from 2018-03-20T03:14:12Z to 2018-03-27T03:14:12Z
+Tue, 27 Mar 2018 11:14:12 bce_spider.py[line:56] INFO No new bills from 2018-03-20T03:14:12Z to 2018-03-27T03:14:12Z
+Tue, 27 Mar 2018 11:16:56 bce_spider.py[line:44] INFO Crawl the bce payment info from 2018-02-27T16:00:00Z to 2018-03-19T16:00:00Z 
+Tue, 27 Mar 2018 11:16:56 bce_spider.py[line:50] INFO Get the bill list from 2018-02-27T16:00:00Z to 2018-03-19T16:00:00Z
+Tue, 27 Mar 2018 11:17:49 bce_spider.py[line:44] INFO Crawl the bce payment info from 2018-02-27T16:00:00Z to 2018-03-19T16:00:00Z 
+Tue, 27 Mar 2018 11:17:49 bce_spider.py[line:50] INFO Get the bill list from 2018-02-27T16:00:00Z to 2018-03-19T16:00:00Z
+Tue, 27 Mar 2018 11:19:09 bce_spider.py[line:44] INFO Crawl the bce payment info from 2018-02-27T16:00:00Z to 2018-03-19T16:00:00Z 
+Tue, 27 Mar 2018 11:19:09 bce_spider.py[line:50] INFO Get the bill list from 2018-02-27T16:00:00Z to 2018-03-19T16:00:00Z
+Tue, 27 Mar 2018 11:20:04 bce_spider.py[line:44] INFO Crawl the bce payment info from 2018-02-27T16:00:00Z to 2018-03-19T16:00:00Z 
+Tue, 27 Mar 2018 11:20:04 bce_spider.py[line:50] INFO Get the bill list from 2018-02-27T16:00:00Z to 2018-03-19T16:00:00Z
+Tue, 27 Mar 2018 11:23:05 bce_spider.py[line:44] INFO Crawl the bce payment info from 2018-02-27T16:00:00Z to 2018-03-19T16:00:00Z 
+Tue, 27 Mar 2018 11:23:05 bce_spider.py[line:50] INFO Get the bill list from 2018-02-27T16:00:00Z to 2018-03-19T16:00:00Z
+Tue, 27 Mar 2018 11:27:25 bce_spider.py[line:44] INFO Crawl the bce payment info from 2018-02-27T16:00:00Z to 2018-03-19T16:00:00Z 
+Tue, 27 Mar 2018 11:27:25 bce_spider.py[line:50] INFO Get the bill list from 2018-02-27T16:00:00Z to 2018-03-19T16:00:00Z
+Tue, 27 Mar 2018 11:27:53 bce_spider.py[line:44] INFO Crawl the bce payment info from 2018-02-27T16:00:00Z to 2018-03-19T16:00:00Z 
+Tue, 27 Mar 2018 11:27:53 bce_spider.py[line:50] INFO Get the bill list from 2018-02-27T16:00:00Z to 2018-03-19T16:00:00Z
+Tue, 27 Mar 2018 11:28:49 bce_spider.py[line:44] INFO Crawl the bce payment info from 2018-02-27T16:00:00Z to 2018-03-19T16:00:00Z 
+Tue, 27 Mar 2018 11:28:49 bce_spider.py[line:50] INFO Get the bill list from 2018-02-27T16:00:00Z to 2018-03-19T16:00:00Z
+Tue, 27 Mar 2018 11:29:05 base_adapter.py[line:26] ERROR HTTPConnectionPool(host='login.bce.baidu.com', port=80): Max retries exceeded with url: /login?account=cf0d393a25bb428ea346af989ec17239 (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x26ed750>: Failed to establish a new connection: [Errno 110] Connection timed out',))
+Tue, 27 Mar 2018 11:29:18 base_adapter.py[line:26] ERROR HTTPConnectionPool(host='login.bce.baidu.com', port=80): Max retries exceeded with url: /login?account=cf0d393a25bb428ea346af989ec17239 (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x26edc50>: Failed to establish a new connection: [Errno 110] Connection timed out',))
+Tue, 27 Mar 2018 11:29:31 base_adapter.py[line:26] ERROR HTTPConnectionPool(host='login.bce.baidu.com', port=80): Max retries exceeded with url: /login?account=cf0d393a25bb428ea346af989ec17239 (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x26edcd0>: Failed to establish a new connection: [Errno 110] Connection timed out',))
+Tue, 27 Mar 2018 11:29:44 base_adapter.py[line:26] ERROR HTTPConnectionPool(host='login.bce.baidu.com', port=80): Max retries exceeded with url: /login?account=cf0d393a25bb428ea346af989ec17239 (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x26edd10>: Failed to establish a new connection: [Errno 110] Connection timed out',))
+Tue, 27 Mar 2018 11:29:57 base_adapter.py[line:26] ERROR HTTPConnectionPool(host='login.bce.baidu.com', port=80): Max retries exceeded with url: /login?account=cf0d393a25bb428ea346af989ec17239 (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x26edd50>: Failed to establish a new connection: [Errno 110] Connection timed out',))
+Tue, 27 Mar 2018 11:29:57 bce_spider.py[line:30] ERROR can not get the correct csrf token
+Tue, 27 Mar 2018 11:30:05 base_adapter.py[line:26] ERROR HTTPConnectionPool(host='login.bce.baidu.com', port=80): Max retries exceeded with url: /login?account=cf0d393a25bb428ea346af989ec17239 (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x289e750>: Failed to establish a new connection: [Errno 110] Connection timed out',))
+Tue, 27 Mar 2018 11:30:16 bce_spider.py[line:44] INFO Crawl the bce payment info from 2018-02-27T16:00:00Z to 2018-03-19T16:00:00Z 
+Tue, 27 Mar 2018 11:30:16 bce_spider.py[line:50] INFO Get the bill list from 2018-02-27T16:00:00Z to 2018-03-19T16:00:00Z
+Tue, 27 Mar 2018 11:37:24 bce_spider.py[line:44] INFO Crawl the bce payment info from 2018-02-27T16:00:00Z to 2018-03-19T16:00:00Z 
+Tue, 27 Mar 2018 11:37:24 bce_spider.py[line:50] INFO Get the bill list from 2018-02-27T16:00:00Z to 2018-03-19T16:00:00Z
+Tue, 27 Mar 2018 11:37:25 lingxu_connectors.py[line:32] INFO Payment record already exists:instance_id=i-zy2LMR6k type=VM payment_time=2018-03-14 10:31:11
+Tue, 27 Mar 2018 11:37:25 lingxu_connectors.py[line:32] INFO Payment record already exists:instance_id=i-LW3dWa67 type=VM payment_time=2018-03-14 10:31:11
+Tue, 27 Mar 2018 11:37:25 lingxu_connectors.py[line:32] INFO Payment record already exists:instance_id=v-8YAQOv2F type=DISK payment_time=2018-03-14 10:31:11
+Tue, 27 Mar 2018 11:37:25 lingxu_connectors.py[line:32] INFO Payment record already exists:instance_id=v-wcBia4p2 type=DISK payment_time=2018-03-14 10:31:11
+Tue, 27 Mar 2018 11:37:26 lingxu_connectors.py[line:32] INFO Payment record already exists:instance_id=i-R1efj43U type=VM payment_time=2018-03-14 10:31:11
+Tue, 27 Mar 2018 11:37:26 lingxu_connectors.py[line:32] INFO Payment record already exists:instance_id=i-hTRBAGUV type=VM payment_time=2018-03-14 10:31:11
+Tue, 27 Mar 2018 11:37:26 lingxu_connectors.py[line:32] INFO Payment record already exists:instance_id=i-gz7eeCmU type=VM payment_time=2018-03-14 10:31:11
+Tue, 27 Mar 2018 11:37:26 lingxu_connectors.py[line:32] INFO Payment record already exists:instance_id=v-anbgrrTy type=DISK payment_time=2018-03-14 10:31:11
+Tue, 27 Mar 2018 11:37:26 lingxu_connectors.py[line:32] INFO Payment record already exists:instance_id=v-5SF28lhN type=DISK payment_time=2018-03-14 10:31:11
+Tue, 27 Mar 2018 11:37:26 lingxu_connectors.py[line:32] INFO Payment record already exists:instance_id=v-fuU3CW16 type=DISK payment_time=2018-03-14 10:31:11
+Tue, 27 Mar 2018 11:37:27 lingxu_connectors.py[line:32] INFO Payment record already exists:instance_id=i-daUOFMAg type=VM payment_time=2018-03-14 10:31:11
+Tue, 27 Mar 2018 11:37:27 lingxu_connectors.py[line:32] INFO Payment record already exists:instance_id=i-1POGHXR0 type=VM payment_time=2018-03-14 10:31:11
+Tue, 27 Mar 2018 11:37:28 lingxu_connectors.py[line:32] INFO Payment record already exists:instance_id=v-NXWXbPge type=DISK payment_time=2018-03-14 10:31:11
+Tue, 27 Mar 2018 11:37:28 lingxu_connectors.py[line:32] INFO Payment record already exists:instance_id=v-cB0DqtN6 type=DISK payment_time=2018-03-14 10:31:11
+Tue, 27 Mar 2018 11:37:28 lingxu_connectors.py[line:32] INFO Payment record already exists:instance_id=i-r6lr5lf1 type=VM payment_time=2018-03-14 10:31:11
+Tue, 27 Mar 2018 11:37:28 lingxu_connectors.py[line:32] INFO Payment record already exists:instance_id=i-plSOt260 type=VM payment_time=2018-03-14 10:31:11
+Tue, 27 Mar 2018 11:37:28 lingxu_connectors.py[line:32] INFO Payment record already exists:instance_id=i-Y9Ywuzfx type=VM payment_time=2018-03-14 10:31:11
+Tue, 27 Mar 2018 11:37:28 lingxu_connectors.py[line:32] INFO Payment record already exists:instance_id=i-oBoodJp3 type=VM payment_time=2018-03-14 10:31:11
+Tue, 27 Mar 2018 11:37:28 lingxu_connectors.py[line:32] INFO Payment record already exists:instance_id=i-mWXWZKJk type=VM payment_time=2018-03-14 10:31:11
+Tue, 27 Mar 2018 11:37:29 lingxu_connectors.py[line:32] INFO Payment record already exists:instance_id=i-EfLzb1oP type=VM payment_time=2018-03-14 10:31:11
+Tue, 27 Mar 2018 11:37:29 lingxu_connectors.py[line:32] INFO Payment record already exists:instance_id=i-rtMdbh1X type=VM payment_time=2018-03-14 10:31:11
+Tue, 27 Mar 2018 11:37:29 lingxu_connectors.py[line:32] INFO Payment record already exists:instance_id=i-3XXyCaBn type=VM payment_time=2018-03-14 10:31:11
+Tue, 27 Mar 2018 11:37:29 lingxu_connectors.py[line:32] INFO Payment record already exists:instance_id=i-6b3dZBvT type=VM payment_time=2018-03-14 10:31:11
+Tue, 27 Mar 2018 11:37:29 lingxu_connectors.py[line:32] INFO Payment record already exists:instance_id=i-rTuvFSk9 type=VM payment_time=2018-03-14 10:31:11
+Tue, 27 Mar 2018 11:37:29 lingxu_connectors.py[line:32] INFO Payment record already exists:instance_id=i-x9LJDxzK type=VM payment_time=2018-03-14 10:31:11
+Tue, 27 Mar 2018 11:37:29 lingxu_connectors.py[line:32] INFO Payment record already exists:instance_id=i-s5jRsMkN type=VM payment_time=2018-03-14 10:31:11
+Tue, 27 Mar 2018 11:37:29 lingxu_connectors.py[line:32] INFO Payment record already exists:instance_id=i-2x0k1sVF type=VM payment_time=2018-03-14 10:31:11
+Tue, 27 Mar 2018 11:37:29 lingxu_connectors.py[line:32] INFO Payment record already exists:instance_id=i-5fj7NSjH type=VM payment_time=2018-03-14 10:31:11
+Tue, 27 Mar 2018 11:37:29 lingxu_connectors.py[line:32] INFO Payment record already exists:instance_id=i-tYjsWLFf type=VM payment_time=2018-03-14 10:31:11
+Tue, 27 Mar 2018 11:37:29 lingxu_connectors.py[line:32] INFO Payment record already exists:instance_id=v-oVC37eZI type=DISK payment_time=2018-03-14 10:31:11
+Tue, 27 Mar 2018 11:37:30 lingxu_connectors.py[line:32] INFO Payment record already exists:instance_id=v-S97ZLtMm type=DISK payment_time=2018-03-14 10:31:11
+Tue, 27 Mar 2018 11:37:30 lingxu_connectors.py[line:32] INFO Payment record already exists:instance_id=v-XUHCDhnw type=DISK payment_time=2018-03-14 10:31:11
+Tue, 27 Mar 2018 11:37:30 lingxu_connectors.py[line:32] INFO Payment record already exists:instance_id=v-qlG6JrcI type=DISK payment_time=2018-03-14 10:31:11
+Tue, 27 Mar 2018 11:37:30 lingxu_connectors.py[line:32] INFO Payment record already exists:instance_id=v-uL6adZrb type=DISK payment_time=2018-03-14 10:31:11
+Tue, 27 Mar 2018 11:37:30 lingxu_connectors.py[line:32] INFO Payment record already exists:instance_id=v-TuhVWOt1 type=DISK payment_time=2018-03-14 10:31:11
+Tue, 27 Mar 2018 11:37:30 lingxu_connectors.py[line:32] INFO Payment record already exists:instance_id=v-qvYBygmW type=DISK payment_time=2018-03-14 10:31:11
+Tue, 27 Mar 2018 11:37:30 lingxu_connectors.py[line:32] INFO Payment record already exists:instance_id=v-FhBBTP4B type=DISK payment_time=2018-03-14 10:31:11
+Tue, 27 Mar 2018 11:37:30 lingxu_connectors.py[line:32] INFO Payment record already exists:instance_id=v-WPDmS5rT type=DISK payment_time=2018-03-14 10:31:11
+Tue, 27 Mar 2018 11:37:30 lingxu_connectors.py[line:32] INFO Payment record already exists:instance_id=v-BmTWZlKq type=DISK payment_time=2018-03-14 10:31:11
+Tue, 27 Mar 2018 11:37:30 lingxu_connectors.py[line:32] INFO Payment record already exists:instance_id=v-WxAL5OYn type=DISK payment_time=2018-03-14 10:31:11
+Tue, 27 Mar 2018 11:37:30 lingxu_connectors.py[line:32] INFO Payment record already exists:instance_id=v-eSVpAL49 type=DISK payment_time=2018-03-14 10:31:11
+Tue, 27 Mar 2018 11:37:31 lingxu_connectors.py[line:32] INFO Payment record already exists:instance_id=v-m7oTh4mS type=DISK payment_time=2018-03-14 10:31:11
+Tue, 27 Mar 2018 11:37:31 lingxu_connectors.py[line:32] INFO Payment record already exists:instance_id=v-IhEtyFiQ type=DISK payment_time=2018-03-14 10:31:11
+Tue, 27 Mar 2018 11:37:31 lingxu_connectors.py[line:32] INFO Payment record already exists:instance_id=v-8GueffiK type=DISK payment_time=2018-03-14 10:31:11
+Tue, 27 Mar 2018 11:37:31 lingxu_connectors.py[line:32] INFO Payment record already exists:instance_id=v-d0eFpsWl type=DISK payment_time=2018-03-14 10:31:11
+Tue, 27 Mar 2018 11:37:31 lingxu_connectors.py[line:32] INFO Payment record already exists:instance_id=v-Ez6ngyMy type=DISK payment_time=2018-03-14 10:31:11
+Tue, 27 Mar 2018 11:37:31 lingxu_connectors.py[line:32] INFO Payment record already exists:instance_id=v-YYtJ9Sd6 type=DISK payment_time=2018-03-14 10:31:11
+Tue, 27 Mar 2018 11:37:31 lingxu_connectors.py[line:32] INFO Payment record already exists:instance_id=v-aw2tvUfb type=DISK payment_time=2018-03-14 10:31:11
+Tue, 27 Mar 2018 11:37:31 lingxu_connectors.py[line:32] INFO Payment record already exists:instance_id=v-tGKwPo3B type=DISK payment_time=2018-03-14 10:31:11
+Tue, 27 Mar 2018 11:37:31 lingxu_connectors.py[line:32] INFO Payment record already exists:instance_id=v-uOLUZktJ type=DISK payment_time=2018-03-14 10:31:11
+Tue, 27 Mar 2018 11:37:31 lingxu_connectors.py[line:32] INFO Payment record already exists:instance_id=v-vXT0SvBB type=DISK payment_time=2018-03-14 10:31:11
+Tue, 27 Mar 2018 11:37:31 lingxu_connectors.py[line:32] INFO Payment record already exists:instance_id=v-BRR270Ui type=DISK payment_time=2018-03-14 10:31:11
+Tue, 27 Mar 2018 11:37:32 lingxu_connectors.py[line:32] INFO Payment record already exists:instance_id=v-u2N6AikM type=DISK payment_time=2018-03-14 10:31:11
+Tue, 27 Mar 2018 11:37:32 lingxu_connectors.py[line:32] INFO Payment record already exists:instance_id=v-kSFowMOD type=DISK payment_time=2018-03-14 10:31:11
+Tue, 27 Mar 2018 11:37:32 lingxu_connectors.py[line:32] INFO Payment record already exists:instance_id=v-qKoZX2qH type=DISK payment_time=2018-03-14 10:31:11
+Tue, 27 Mar 2018 11:37:32 lingxu_connectors.py[line:32] INFO Payment record already exists:instance_id=v-CPMjialv type=DISK payment_time=2018-03-14 10:31:11
+Tue, 27 Mar 2018 11:37:32 lingxu_connectors.py[line:32] INFO Payment record already exists:instance_id=v-FBpHnzP3 type=DISK payment_time=2018-03-14 10:31:11
+Tue, 27 Mar 2018 11:37:32 lingxu_connectors.py[line:32] INFO Payment record already exists:instance_id=v-XFj09QHt type=DISK payment_time=2018-03-14 10:31:11
+Tue, 27 Mar 2018 11:37:32 lingxu_connectors.py[line:32] INFO Payment record already exists:instance_id=v-NgaF71Id type=DISK payment_time=2018-03-14 10:31:11
+Tue, 27 Mar 2018 11:37:33 lingxu_connectors.py[line:32] INFO Payment record already exists:instance_id=i-b4q1doR7 type=VM payment_time=2018-03-14 10:31:11
+Tue, 27 Mar 2018 11:37:33 lingxu_connectors.py[line:32] INFO Payment record already exists:instance_id=i-5lN6RBdk type=VM payment_time=2018-03-14 10:31:11
+Tue, 27 Mar 2018 11:37:33 lingxu_connectors.py[line:32] INFO Payment record already exists:instance_id=i-EEkGFoIo type=VM payment_time=2018-03-14 10:31:11
+Tue, 27 Mar 2018 11:37:33 lingxu_connectors.py[line:32] INFO Payment record already exists:instance_id=i-ZkOLl2QA type=VM payment_time=2018-03-14 10:31:11
+Tue, 27 Mar 2018 11:37:33 lingxu_connectors.py[line:32] INFO Payment record already exists:instance_id=i-HdVfP5rR type=VM payment_time=2018-03-14 10:31:11
+Tue, 27 Mar 2018 11:37:33 lingxu_connectors.py[line:32] INFO Payment record already exists:instance_id=i-ZmE95gZj type=VM payment_time=2018-03-14 10:31:11
+Tue, 27 Mar 2018 11:37:33 lingxu_connectors.py[line:32] INFO Payment record already exists:instance_id=i-gAoMeoaF type=VM payment_time=2018-03-14 10:31:11
+Tue, 27 Mar 2018 11:37:33 lingxu_connectors.py[line:32] INFO Payment record already exists:instance_id=i-SkJTXCis type=VM payment_time=2018-03-14 10:31:11
+Tue, 27 Mar 2018 11:37:33 lingxu_connectors.py[line:32] INFO Payment record already exists:instance_id=i-pi0s860x type=VM payment_time=2018-03-14 10:31:11
+Tue, 27 Mar 2018 11:37:33 lingxu_connectors.py[line:32] INFO Payment record already exists:instance_id=i-24KpcIzQ type=VM payment_time=2018-03-14 10:31:11
+Tue, 27 Mar 2018 11:37:33 lingxu_connectors.py[line:32] INFO Payment record already exists:instance_id=i-vD15X5Tb type=VM payment_time=2018-03-14 10:31:11
+Tue, 27 Mar 2018 11:37:34 lingxu_connectors.py[line:32] INFO Payment record already exists:instance_id=i-NLZuJfut type=VM payment_time=2018-03-14 10:31:11
+Tue, 27 Mar 2018 11:37:34 lingxu_connectors.py[line:32] INFO Payment record already exists:instance_id=i-rWzLdsfX type=VM payment_time=2018-03-14 10:31:11
+Tue, 27 Mar 2018 11:37:34 lingxu_connectors.py[line:32] INFO Payment record already exists:instance_id=i-mz8XJpAz type=VM payment_time=2018-03-14 10:31:11
+Tue, 27 Mar 2018 11:37:34 lingxu_connectors.py[line:32] INFO Payment record already exists:instance_id=i-WM82MIbB type=VM payment_time=2018-03-14 10:31:11
+Tue, 27 Mar 2018 11:37:34 lingxu_connectors.py[line:32] INFO Payment record already exists:instance_id=i-5NSmEQcg type=VM payment_time=2018-03-14 10:31:11
+Tue, 27 Mar 2018 11:37:34 lingxu_connectors.py[line:32] INFO Payment record already exists:instance_id=i-oOxQKKdu type=VM payment_time=2018-03-14 10:31:11
+Tue, 27 Mar 2018 11:37:34 lingxu_connectors.py[line:32] INFO Payment record already exists:instance_id=i-AkDKgUpv type=VM payment_time=2018-03-14 10:31:11
+Tue, 27 Mar 2018 11:37:34 lingxu_connectors.py[line:32] INFO Payment record already exists:instance_id=i-nuVULWVf type=VM payment_time=2018-03-14 10:31:11
+Tue, 27 Mar 2018 11:37:34 lingxu_connectors.py[line:32] INFO Payment record already exists:instance_id=i-6K7XLPBx type=VM payment_time=2018-03-14 10:31:11
+Tue, 27 Mar 2018 11:37:34 lingxu_connectors.py[line:32] INFO Payment record already exists:instance_id=i-6qvpAImA type=VM payment_time=2018-03-14 10:31:11
+Tue, 27 Mar 2018 11:37:34 lingxu_connectors.py[line:32] INFO Payment record already exists:instance_id=i-NY8cd6Pl type=VM payment_time=2018-03-14 10:31:11
+Tue, 27 Mar 2018 11:37:35 lingxu_connectors.py[line:32] INFO Payment record already exists:instance_id=i-yZOxPdgU type=VM payment_time=2018-03-14 10:31:11
+Tue, 27 Mar 2018 11:37:35 lingxu_connectors.py[line:32] INFO Payment record already exists:instance_id=i-iEMF8EyD type=VM payment_time=2018-03-14 10:31:11
+Tue, 27 Mar 2018 11:37:35 lingxu_connectors.py[line:32] INFO Payment record already exists:instance_id=i-a06a50Yx type=VM payment_time=2018-03-14 10:31:11
+Tue, 27 Mar 2018 11:37:35 lingxu_connectors.py[line:32] INFO Payment record already exists:instance_id=i-navDq5Kg type=VM payment_time=2018-03-14 10:31:11
+Tue, 27 Mar 2018 11:37:35 lingxu_connectors.py[line:32] INFO Payment record already exists:instance_id=i-IkJq9dAy type=VM payment_time=2018-03-14 10:31:11
+Tue, 27 Mar 2018 11:37:35 lingxu_connectors.py[line:32] INFO Payment record already exists:instance_id=i-JkVQoW2m type=VM payment_time=2018-03-14 10:31:11
+Tue, 27 Mar 2018 11:37:35 lingxu_connectors.py[line:32] INFO Payment record already exists:instance_id=i-I5LMwpix type=VM payment_time=2018-03-14 10:31:11
+Tue, 27 Mar 2018 11:37:35 lingxu_connectors.py[line:32] INFO Payment record already exists:instance_id=i-XBIRzqpQ type=VM payment_time=2018-03-14 10:31:11
+Tue, 27 Mar 2018 11:42:50 bce_spider.py[line:44] INFO Crawl the bce payment info from 2018-02-27T16:00:00Z to 2018-03-19T16:00:00Z 
+Tue, 27 Mar 2018 11:42:50 bce_spider.py[line:50] INFO Get the bill list from 2018-02-27T16:00:00Z to 2018-03-19T16:00:00Z
+Tue, 27 Mar 2018 11:42:51 lingxu_connectors.py[line:65] ERROR Exception occurs when check instance payment:instance_id=i-zy2LMR6k type=VM payment_time=2018-03-14 10:31:11
+Traceback (most recent call last):
+  File "/workapace/huangzheng01/python-work/bce-crawler/dao/lingxu_connectors.py", line 59, in check_instance_payment
+    cursor.execute(sql)
+  File "/usr/lib64/python2.6/site-packages/MySQLdb/cursors.py", line 173, in execute
+    self.errorhandler(self, exc, value)
+  File "/usr/lib64/python2.6/site-packages/MySQLdb/connections.py", line 36, in defaulterrorhandler
+    raise errorclass, errorvalue
+ProgrammingError: (1064, "You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '10:31:11' at line 1")
+Tue, 27 Mar 2018 11:42:51 lingxu_connectors.py[line:32] INFO Payment record already exists:instance_id=i-zy2LMR6k type=VM payment_time=2018-03-14 10:31:11
+Tue, 27 Mar 2018 11:42:51 lingxu_connectors.py[line:65] ERROR Exception occurs when check instance payment:instance_id=i-LW3dWa67 type=VM payment_time=2018-03-14 10:31:11
+Traceback (most recent call last):
+  File "/workapace/huangzheng01/python-work/bce-crawler/dao/lingxu_connectors.py", line 59, in check_instance_payment
+    cursor.execute(sql)
+  File "/usr/lib64/python2.6/site-packages/MySQLdb/cursors.py", line 173, in execute
+    self.errorhandler(self, exc, value)
+  File "/usr/lib64/python2.6/site-packages/MySQLdb/connections.py", line 36, in defaulterrorhandler
+    raise errorclass, errorvalue
+ProgrammingError: (1064, "You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '10:31:11' at line 1")
+Tue, 27 Mar 2018 11:42:51 lingxu_connectors.py[line:32] INFO Payment record already exists:instance_id=i-LW3dWa67 type=VM payment_time=2018-03-14 10:31:11
+Tue, 27 Mar 2018 11:42:51 lingxu_connectors.py[line:65] ERROR Exception occurs when check instance payment:instance_id=v-8YAQOv2F type=DISK payment_time=2018-03-14 10:31:11
+Traceback (most recent call last):
+  File "/workapace/huangzheng01/python-work/bce-crawler/dao/lingxu_connectors.py", line 59, in check_instance_payment
+    cursor.execute(sql)
+  File "/usr/lib64/python2.6/site-packages/MySQLdb/cursors.py", line 173, in execute
+    self.errorhandler(self, exc, value)
+  File "/usr/lib64/python2.6/site-packages/MySQLdb/connections.py", line 36, in defaulterrorhandler
+    raise errorclass, errorvalue
+ProgrammingError: (1064, "You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '10:31:11' at line 1")
+Tue, 27 Mar 2018 11:42:51 lingxu_connectors.py[line:32] INFO Payment record already exists:instance_id=v-8YAQOv2F type=DISK payment_time=2018-03-14 10:31:11
+Tue, 27 Mar 2018 11:42:52 lingxu_connectors.py[line:65] ERROR Exception occurs when check instance payment:instance_id=v-wcBia4p2 type=DISK payment_time=2018-03-14 10:31:11
+Traceback (most recent call last):
+  File "/workapace/huangzheng01/python-work/bce-crawler/dao/lingxu_connectors.py", line 59, in check_instance_payment
+    cursor.execute(sql)
+  File "/usr/lib64/python2.6/site-packages/MySQLdb/cursors.py", line 173, in execute
+    self.errorhandler(self, exc, value)
+  File "/usr/lib64/python2.6/site-packages/MySQLdb/connections.py", line 36, in defaulterrorhandler
+    raise errorclass, errorvalue
+ProgrammingError: (1064, "You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '10:31:11' at line 1")
+Tue, 27 Mar 2018 11:42:52 lingxu_connectors.py[line:32] INFO Payment record already exists:instance_id=v-wcBia4p2 type=DISK payment_time=2018-03-14 10:31:11
+Tue, 27 Mar 2018 11:42:52 lingxu_connectors.py[line:65] ERROR Exception occurs when check instance payment:instance_id=i-R1efj43U type=VM payment_time=2018-03-14 10:31:11
+Traceback (most recent call last):
+  File "/workapace/huangzheng01/python-work/bce-crawler/dao/lingxu_connectors.py", line 59, in check_instance_payment
+    cursor.execute(sql)
+  File "/usr/lib64/python2.6/site-packages/MySQLdb/cursors.py", line 173, in execute
+    self.errorhandler(self, exc, value)
+  File "/usr/lib64/python2.6/site-packages/MySQLdb/connections.py", line 36, in defaulterrorhandler
+    raise errorclass, errorvalue
+ProgrammingError: (1064, "You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '10:31:11' at line 1")
+Tue, 27 Mar 2018 11:42:52 lingxu_connectors.py[line:32] INFO Payment record already exists:instance_id=i-R1efj43U type=VM payment_time=2018-03-14 10:31:11
+Tue, 27 Mar 2018 11:42:52 lingxu_connectors.py[line:65] ERROR Exception occurs when check instance payment:instance_id=i-hTRBAGUV type=VM payment_time=2018-03-14 10:31:11
+Traceback (most recent call last):
+  File "/workapace/huangzheng01/python-work/bce-crawler/dao/lingxu_connectors.py", line 59, in check_instance_payment
+    cursor.execute(sql)
+  File "/usr/lib64/python2.6/site-packages/MySQLdb/cursors.py", line 173, in execute
+    self.errorhandler(self, exc, value)
+  File "/usr/lib64/python2.6/site-packages/MySQLdb/connections.py", line 36, in defaulterrorhandler
+    raise errorclass, errorvalue
+ProgrammingError: (1064, "You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '10:31:11' at line 1")
+Tue, 27 Mar 2018 11:42:52 lingxu_connectors.py[line:32] INFO Payment record already exists:instance_id=i-hTRBAGUV type=VM payment_time=2018-03-14 10:31:11
+Tue, 27 Mar 2018 11:42:52 lingxu_connectors.py[line:65] ERROR Exception occurs when check instance payment:instance_id=i-gz7eeCmU type=VM payment_time=2018-03-14 10:31:11
+Traceback (most recent call last):
+  File "/workapace/huangzheng01/python-work/bce-crawler/dao/lingxu_connectors.py", line 59, in check_instance_payment
+    cursor.execute(sql)
+  File "/usr/lib64/python2.6/site-packages/MySQLdb/cursors.py", line 173, in execute
+    self.errorhandler(self, exc, value)
+  File "/usr/lib64/python2.6/site-packages/MySQLdb/connections.py", line 36, in defaulterrorhandler
+    raise errorclass, errorvalue
+ProgrammingError: (1064, "You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '10:31:11' at line 1")
+Tue, 27 Mar 2018 11:42:52 lingxu_connectors.py[line:32] INFO Payment record already exists:instance_id=i-gz7eeCmU type=VM payment_time=2018-03-14 10:31:11
+Tue, 27 Mar 2018 11:42:52 lingxu_connectors.py[line:65] ERROR Exception occurs when check instance payment:instance_id=v-anbgrrTy type=DISK payment_time=2018-03-14 10:31:11
+Traceback (most recent call last):
+  File "/workapace/huangzheng01/python-work/bce-crawler/dao/lingxu_connectors.py", line 59, in check_instance_payment
+    cursor.execute(sql)
+  File "/usr/lib64/python2.6/site-packages/MySQLdb/cursors.py", line 173, in execute
+    self.errorhandler(self, exc, value)
+  File "/usr/lib64/python2.6/site-packages/MySQLdb/connections.py", line 36, in defaulterrorhandler
+    raise errorclass, errorvalue
+ProgrammingError: (1064, "You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '10:31:11' at line 1")
+Tue, 27 Mar 2018 11:42:52 lingxu_connectors.py[line:32] INFO Payment record already exists:instance_id=v-anbgrrTy type=DISK payment_time=2018-03-14 10:31:11
+Tue, 27 Mar 2018 11:42:52 lingxu_connectors.py[line:65] ERROR Exception occurs when check instance payment:instance_id=v-5SF28lhN type=DISK payment_time=2018-03-14 10:31:11
+Traceback (most recent call last):
+  File "/workapace/huangzheng01/python-work/bce-crawler/dao/lingxu_connectors.py", line 59, in check_instance_payment
+    cursor.execute(sql)
+  File "/usr/lib64/python2.6/site-packages/MySQLdb/cursors.py", line 173, in execute
+    self.errorhandler(self, exc, value)
+  File "/usr/lib64/python2.6/site-packages/MySQLdb/connections.py", line 36, in defaulterrorhandler
+    raise errorclass, errorvalue
+ProgrammingError: (1064, "You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '10:31:11' at line 1")
+Tue, 27 Mar 2018 11:42:52 lingxu_connectors.py[line:32] INFO Payment record already exists:instance_id=v-5SF28lhN type=DISK payment_time=2018-03-14 10:31:11
+Tue, 27 Mar 2018 11:42:52 lingxu_connectors.py[line:65] ERROR Exception occurs when check instance payment:instance_id=v-fuU3CW16 type=DISK payment_time=2018-03-14 10:31:11
+Traceback (most recent call last):
+  File "/workapace/huangzheng01/python-work/bce-crawler/dao/lingxu_connectors.py", line 59, in check_instance_payment
+    cursor.execute(sql)
+  File "/usr/lib64/python2.6/site-packages/MySQLdb/cursors.py", line 173, in execute
+    self.errorhandler(self, exc, value)
+  File "/usr/lib64/python2.6/site-packages/MySQLdb/connections.py", line 36, in defaulterrorhandler
+    raise errorclass, errorvalue
+ProgrammingError: (1064, "You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '10:31:11' at line 1")
+Tue, 27 Mar 2018 11:42:52 lingxu_connectors.py[line:32] INFO Payment record already exists:instance_id=v-fuU3CW16 type=DISK payment_time=2018-03-14 10:31:11
+Tue, 27 Mar 2018 11:42:53 lingxu_connectors.py[line:65] ERROR Exception occurs when check instance payment:instance_id=i-daUOFMAg type=VM payment_time=2018-03-14 10:31:11
+Traceback (most recent call last):
+  File "/workapace/huangzheng01/python-work/bce-crawler/dao/lingxu_connectors.py", line 59, in check_instance_payment
+    cursor.execute(sql)
+  File "/usr/lib64/python2.6/site-packages/MySQLdb/cursors.py", line 173, in execute
+    self.errorhandler(self, exc, value)
+  File "/usr/lib64/python2.6/site-packages/MySQLdb/connections.py", line 36, in defaulterrorhandler
+    raise errorclass, errorvalue
+ProgrammingError: (1064, "You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '10:31:11' at line 1")
+Tue, 27 Mar 2018 11:42:53 lingxu_connectors.py[line:32] INFO Payment record already exists:instance_id=i-daUOFMAg type=VM payment_time=2018-03-14 10:31:11
+Tue, 27 Mar 2018 11:42:53 lingxu_connectors.py[line:65] ERROR Exception occurs when check instance payment:instance_id=i-1POGHXR0 type=VM payment_time=2018-03-14 10:31:11
+Traceback (most recent call last):
+  File "/workapace/huangzheng01/python-work/bce-crawler/dao/lingxu_connectors.py", line 59, in check_instance_payment
+    cursor.execute(sql)
+  File "/usr/lib64/python2.6/site-packages/MySQLdb/cursors.py", line 173, in execute
+    self.errorhandler(self, exc, value)
+  File "/usr/lib64/python2.6/site-packages/MySQLdb/connections.py", line 36, in defaulterrorhandler
+    raise errorclass, errorvalue
+ProgrammingError: (1064, "You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '10:31:11' at line 1")
+Tue, 27 Mar 2018 11:42:53 lingxu_connectors.py[line:32] INFO Payment record already exists:instance_id=i-1POGHXR0 type=VM payment_time=2018-03-14 10:31:11
+Tue, 27 Mar 2018 11:42:53 lingxu_connectors.py[line:65] ERROR Exception occurs when check instance payment:instance_id=v-NXWXbPge type=DISK payment_time=2018-03-14 10:31:11
+Traceback (most recent call last):
+  File "/workapace/huangzheng01/python-work/bce-crawler/dao/lingxu_connectors.py", line 59, in check_instance_payment
+    cursor.execute(sql)
+  File "/usr/lib64/python2.6/site-packages/MySQLdb/cursors.py", line 173, in execute
+    self.errorhandler(self, exc, value)
+  File "/usr/lib64/python2.6/site-packages/MySQLdb/connections.py", line 36, in defaulterrorhandler
+    raise errorclass, errorvalue
+ProgrammingError: (1064, "You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '10:31:11' at line 1")
+Tue, 27 Mar 2018 11:42:53 lingxu_connectors.py[line:32] INFO Payment record already exists:instance_id=v-NXWXbPge type=DISK payment_time=2018-03-14 10:31:11
+Tue, 27 Mar 2018 11:42:53 lingxu_connectors.py[line:65] ERROR Exception occurs when check instance payment:instance_id=v-cB0DqtN6 type=DISK payment_time=2018-03-14 10:31:11
+Traceback (most recent call last):
+  File "/workapace/huangzheng01/python-work/bce-crawler/dao/lingxu_connectors.py", line 59, in check_instance_payment
+    cursor.execute(sql)
+  File "/usr/lib64/python2.6/site-packages/MySQLdb/cursors.py", line 173, in execute
+    self.errorhandler(self, exc, value)
+  File "/usr/lib64/python2.6/site-packages/MySQLdb/connections.py", line 36, in defaulterrorhandler
+    raise errorclass, errorvalue
+ProgrammingError: (1064, "You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '10:31:11' at line 1")
+Tue, 27 Mar 2018 11:42:53 lingxu_connectors.py[line:32] INFO Payment record already exists:instance_id=v-cB0DqtN6 type=DISK payment_time=2018-03-14 10:31:11
+Tue, 27 Mar 2018 11:44:06 bce_spider.py[line:44] INFO Crawl the bce payment info from 2018-02-27T16:00:00Z to 2018-03-19T16:00:00Z 
+Tue, 27 Mar 2018 11:44:06 bce_spider.py[line:50] INFO Get the bill list from 2018-02-27T16:00:00Z to 2018-03-19T16:00:00Z
+Tue, 27 Mar 2018 11:44:07 lingxu_connectors.py[line:45] ERROR Exception occurs when insert payment record:instance_id=i-zy2LMR6k type=VM payment_time=2018-03-14 10:31:11
+Traceback (most recent call last):
+  File "/workapace/huangzheng01/python-work/bce-crawler/dao/lingxu_connectors.py", line 36, in insert_instance_payment_list
+    + "values('%s', '%s', '%s', '%s', '%s', '%f', NOW(), NOW())" % instance_payment
+TypeError: bad operand type for unary +: 'str'
+Tue, 27 Mar 2018 11:44:07 lingxu_connectors.py[line:45] ERROR Exception occurs when insert payment record:instance_id=i-LW3dWa67 type=VM payment_time=2018-03-14 10:31:11
+Traceback (most recent call last):
+  File "/workapace/huangzheng01/python-work/bce-crawler/dao/lingxu_connectors.py", line 36, in insert_instance_payment_list
+    + "values('%s', '%s', '%s', '%s', '%s', '%f', NOW(), NOW())" % instance_payment
+TypeError: bad operand type for unary +: 'str'
+Tue, 27 Mar 2018 11:44:07 lingxu_connectors.py[line:45] ERROR Exception occurs when insert payment record:instance_id=v-8YAQOv2F type=DISK payment_time=2018-03-14 10:31:11
+Traceback (most recent call last):
+  File "/workapace/huangzheng01/python-work/bce-crawler/dao/lingxu_connectors.py", line 36, in insert_instance_payment_list
+    + "values('%s', '%s', '%s', '%s', '%s', '%f', NOW(), NOW())" % instance_payment
+TypeError: bad operand type for unary +: 'str'
+Tue, 27 Mar 2018 11:44:07 lingxu_connectors.py[line:45] ERROR Exception occurs when insert payment record:instance_id=v-wcBia4p2 type=DISK payment_time=2018-03-14 10:31:11
+Traceback (most recent call last):
+  File "/workapace/huangzheng01/python-work/bce-crawler/dao/lingxu_connectors.py", line 36, in insert_instance_payment_list
+    + "values('%s', '%s', '%s', '%s', '%s', '%f', NOW(), NOW())" % instance_payment
+TypeError: bad operand type for unary +: 'str'
+Tue, 27 Mar 2018 11:44:08 lingxu_connectors.py[line:45] ERROR Exception occurs when insert payment record:instance_id=i-R1efj43U type=VM payment_time=2018-03-14 10:31:11
+Traceback (most recent call last):
+  File "/workapace/huangzheng01/python-work/bce-crawler/dao/lingxu_connectors.py", line 36, in insert_instance_payment_list
+    + "values('%s', '%s', '%s', '%s', '%s', '%f', NOW(), NOW())" % instance_payment
+TypeError: bad operand type for unary +: 'str'
+Tue, 27 Mar 2018 11:44:08 lingxu_connectors.py[line:45] ERROR Exception occurs when insert payment record:instance_id=i-hTRBAGUV type=VM payment_time=2018-03-14 10:31:11
+Traceback (most recent call last):
+  File "/workapace/huangzheng01/python-work/bce-crawler/dao/lingxu_connectors.py", line 36, in insert_instance_payment_list
+    + "values('%s', '%s', '%s', '%s', '%s', '%f', NOW(), NOW())" % instance_payment
+TypeError: bad operand type for unary +: 'str'
+Tue, 27 Mar 2018 11:44:08 lingxu_connectors.py[line:45] ERROR Exception occurs when insert payment record:instance_id=i-gz7eeCmU type=VM payment_time=2018-03-14 10:31:11
+Traceback (most recent call last):
+  File "/workapace/huangzheng01/python-work/bce-crawler/dao/lingxu_connectors.py", line 36, in insert_instance_payment_list
+    + "values('%s', '%s', '%s', '%s', '%s', '%f', NOW(), NOW())" % instance_payment
+TypeError: bad operand type for unary +: 'str'
+Tue, 27 Mar 2018 11:44:08 lingxu_connectors.py[line:45] ERROR Exception occurs when insert payment record:instance_id=v-anbgrrTy type=DISK payment_time=2018-03-14 10:31:11
+Traceback (most recent call last):
+  File "/workapace/huangzheng01/python-work/bce-crawler/dao/lingxu_connectors.py", line 36, in insert_instance_payment_list
+    + "values('%s', '%s', '%s', '%s', '%s', '%f', NOW(), NOW())" % instance_payment
+TypeError: bad operand type for unary +: 'str'
+Tue, 27 Mar 2018 11:44:08 lingxu_connectors.py[line:45] ERROR Exception occurs when insert payment record:instance_id=v-5SF28lhN type=DISK payment_time=2018-03-14 10:31:11
+Traceback (most recent call last):
+  File "/workapace/huangzheng01/python-work/bce-crawler/dao/lingxu_connectors.py", line 36, in insert_instance_payment_list
+    + "values('%s', '%s', '%s', '%s', '%s', '%f', NOW(), NOW())" % instance_payment
+TypeError: bad operand type for unary +: 'str'
+Tue, 27 Mar 2018 11:44:09 lingxu_connectors.py[line:45] ERROR Exception occurs when insert payment record:instance_id=v-fuU3CW16 type=DISK payment_time=2018-03-14 10:31:11
+Traceback (most recent call last):
+  File "/workapace/huangzheng01/python-work/bce-crawler/dao/lingxu_connectors.py", line 36, in insert_instance_payment_list
+    + "values('%s', '%s', '%s', '%s', '%s', '%f', NOW(), NOW())" % instance_payment
+TypeError: bad operand type for unary +: 'str'
+Tue, 27 Mar 2018 11:44:09 lingxu_connectors.py[line:45] ERROR Exception occurs when insert payment record:instance_id=i-daUOFMAg type=VM payment_time=2018-03-14 10:31:11
+Traceback (most recent call last):
+  File "/workapace/huangzheng01/python-work/bce-crawler/dao/lingxu_connectors.py", line 36, in insert_instance_payment_list
+    + "values('%s', '%s', '%s', '%s', '%s', '%f', NOW(), NOW())" % instance_payment
+TypeError: bad operand type for unary +: 'str'
+Tue, 27 Mar 2018 11:44:09 lingxu_connectors.py[line:45] ERROR Exception occurs when insert payment record:instance_id=i-1POGHXR0 type=VM payment_time=2018-03-14 10:31:11
+Traceback (most recent call last):
+  File "/workapace/huangzheng01/python-work/bce-crawler/dao/lingxu_connectors.py", line 36, in insert_instance_payment_list
+    + "values('%s', '%s', '%s', '%s', '%s', '%f', NOW(), NOW())" % instance_payment
+TypeError: bad operand type for unary +: 'str'
+Tue, 27 Mar 2018 11:44:09 lingxu_connectors.py[line:45] ERROR Exception occurs when insert payment record:instance_id=v-NXWXbPge type=DISK payment_time=2018-03-14 10:31:11
+Traceback (most recent call last):
+  File "/workapace/huangzheng01/python-work/bce-crawler/dao/lingxu_connectors.py", line 36, in insert_instance_payment_list
+    + "values('%s', '%s', '%s', '%s', '%s', '%f', NOW(), NOW())" % instance_payment
+TypeError: bad operand type for unary +: 'str'
+Tue, 27 Mar 2018 11:44:09 lingxu_connectors.py[line:45] ERROR Exception occurs when insert payment record:instance_id=v-cB0DqtN6 type=DISK payment_time=2018-03-14 10:31:11
+Traceback (most recent call last):
+  File "/workapace/huangzheng01/python-work/bce-crawler/dao/lingxu_connectors.py", line 36, in insert_instance_payment_list
+    + "values('%s', '%s', '%s', '%s', '%s', '%f', NOW(), NOW())" % instance_payment
+TypeError: bad operand type for unary +: 'str'
+Tue, 27 Mar 2018 11:45:34 bce_spider.py[line:44] INFO Crawl the bce payment info from 2018-02-27T16:00:00Z to 2018-03-19T16:00:00Z 
+Tue, 27 Mar 2018 11:45:34 bce_spider.py[line:50] INFO Get the bill list from 2018-02-27T16:00:00Z to 2018-03-19T16:00:00Z
+Tue, 27 Mar 2018 11:45:35 lingxu_connectors.py[line:39] INFO Success insert payment record:instance_id=i-zy2LMR6k type=VM payment_time=2018-03-14 10:31:11
+Tue, 27 Mar 2018 11:45:35 lingxu_connectors.py[line:39] INFO Success insert payment record:instance_id=i-LW3dWa67 type=VM payment_time=2018-03-14 10:31:11
+Tue, 27 Mar 2018 11:45:35 lingxu_connectors.py[line:39] INFO Success insert payment record:instance_id=v-8YAQOv2F type=DISK payment_time=2018-03-14 10:31:11
+Tue, 27 Mar 2018 11:45:35 lingxu_connectors.py[line:39] INFO Success insert payment record:instance_id=v-wcBia4p2 type=DISK payment_time=2018-03-14 10:31:11
+Tue, 27 Mar 2018 11:45:36 lingxu_connectors.py[line:39] INFO Success insert payment record:instance_id=i-R1efj43U type=VM payment_time=2018-03-14 10:31:11
+Tue, 27 Mar 2018 11:45:36 lingxu_connectors.py[line:39] INFO Success insert payment record:instance_id=i-hTRBAGUV type=VM payment_time=2018-03-14 10:31:11
+Tue, 27 Mar 2018 11:45:36 lingxu_connectors.py[line:39] INFO Success insert payment record:instance_id=i-gz7eeCmU type=VM payment_time=2018-03-14 10:31:11
+Tue, 27 Mar 2018 11:45:36 lingxu_connectors.py[line:39] INFO Success insert payment record:instance_id=v-anbgrrTy type=DISK payment_time=2018-03-14 10:31:11
+Tue, 27 Mar 2018 11:45:37 lingxu_connectors.py[line:39] INFO Success insert payment record:instance_id=v-5SF28lhN type=DISK payment_time=2018-03-14 10:31:11
+Tue, 27 Mar 2018 11:45:37 lingxu_connectors.py[line:39] INFO Success insert payment record:instance_id=v-fuU3CW16 type=DISK payment_time=2018-03-14 10:31:11
+Tue, 27 Mar 2018 11:45:37 lingxu_connectors.py[line:39] INFO Success insert payment record:instance_id=i-daUOFMAg type=VM payment_time=2018-03-14 10:31:11
+Tue, 27 Mar 2018 11:45:37 lingxu_connectors.py[line:39] INFO Success insert payment record:instance_id=i-1POGHXR0 type=VM payment_time=2018-03-14 10:31:11
+Tue, 27 Mar 2018 11:45:37 lingxu_connectors.py[line:39] INFO Success insert payment record:instance_id=v-NXWXbPge type=DISK payment_time=2018-03-14 10:31:11
+Tue, 27 Mar 2018 11:45:37 lingxu_connectors.py[line:39] INFO Success insert payment record:instance_id=v-cB0DqtN6 type=DISK payment_time=2018-03-14 10:31:11
+Tue, 27 Mar 2018 11:45:38 lingxu_connectors.py[line:39] INFO Success insert payment record:instance_id=i-r6lr5lf1 type=VM payment_time=2018-03-14 10:31:11
+Tue, 27 Mar 2018 11:45:38 lingxu_connectors.py[line:39] INFO Success insert payment record:instance_id=i-plSOt260 type=VM payment_time=2018-03-14 10:31:11
+Tue, 27 Mar 2018 11:45:38 lingxu_connectors.py[line:39] INFO Success insert payment record:instance_id=i-Y9Ywuzfx type=VM payment_time=2018-03-14 10:31:11
+Tue, 27 Mar 2018 11:45:38 lingxu_connectors.py[line:39] INFO Success insert payment record:instance_id=i-oBoodJp3 type=VM payment_time=2018-03-14 10:31:11
+Tue, 27 Mar 2018 11:45:38 lingxu_connectors.py[line:39] INFO Success insert payment record:instance_id=i-mWXWZKJk type=VM payment_time=2018-03-14 10:31:11
+Tue, 27 Mar 2018 11:45:39 lingxu_connectors.py[line:39] INFO Success insert payment record:instance_id=i-EfLzb1oP type=VM payment_time=2018-03-14 10:31:11
+Tue, 27 Mar 2018 11:45:39 lingxu_connectors.py[line:39] INFO Success insert payment record:instance_id=i-rtMdbh1X type=VM payment_time=2018-03-14 10:31:11
+Tue, 27 Mar 2018 11:45:39 lingxu_connectors.py[line:39] INFO Success insert payment record:instance_id=i-3XXyCaBn type=VM payment_time=2018-03-14 10:31:11
+Tue, 27 Mar 2018 11:45:39 lingxu_connectors.py[line:39] INFO Success insert payment record:instance_id=i-6b3dZBvT type=VM payment_time=2018-03-14 10:31:11
+Tue, 27 Mar 2018 11:45:39 lingxu_connectors.py[line:39] INFO Success insert payment record:instance_id=i-rTuvFSk9 type=VM payment_time=2018-03-14 10:31:11
+Tue, 27 Mar 2018 11:45:39 lingxu_connectors.py[line:39] INFO Success insert payment record:instance_id=i-x9LJDxzK type=VM payment_time=2018-03-14 10:31:11
+Tue, 27 Mar 2018 11:45:39 lingxu_connectors.py[line:39] INFO Success insert payment record:instance_id=i-s5jRsMkN type=VM payment_time=2018-03-14 10:31:11
+Tue, 27 Mar 2018 11:45:39 lingxu_connectors.py[line:39] INFO Success insert payment record:instance_id=i-2x0k1sVF type=VM payment_time=2018-03-14 10:31:11
+Tue, 27 Mar 2018 11:45:40 lingxu_connectors.py[line:39] INFO Success insert payment record:instance_id=i-5fj7NSjH type=VM payment_time=2018-03-14 10:31:11
+Tue, 27 Mar 2018 11:45:40 lingxu_connectors.py[line:39] INFO Success insert payment record:instance_id=i-tYjsWLFf type=VM payment_time=2018-03-14 10:31:11
+Tue, 27 Mar 2018 11:45:40 lingxu_connectors.py[line:39] INFO Success insert payment record:instance_id=v-oVC37eZI type=DISK payment_time=2018-03-14 10:31:11
+Tue, 27 Mar 2018 11:45:40 lingxu_connectors.py[line:39] INFO Success insert payment record:instance_id=v-S97ZLtMm type=DISK payment_time=2018-03-14 10:31:11
+Tue, 27 Mar 2018 11:45:40 lingxu_connectors.py[line:39] INFO Success insert payment record:instance_id=v-XUHCDhnw type=DISK payment_time=2018-03-14 10:31:11
+Tue, 27 Mar 2018 11:45:40 lingxu_connectors.py[line:39] INFO Success insert payment record:instance_id=v-qlG6JrcI type=DISK payment_time=2018-03-14 10:31:11
+Tue, 27 Mar 2018 11:45:40 lingxu_connectors.py[line:39] INFO Success insert payment record:instance_id=v-uL6adZrb type=DISK payment_time=2018-03-14 10:31:11
+Tue, 27 Mar 2018 11:45:40 lingxu_connectors.py[line:39] INFO Success insert payment record:instance_id=v-TuhVWOt1 type=DISK payment_time=2018-03-14 10:31:11
+Tue, 27 Mar 2018 11:45:41 lingxu_connectors.py[line:39] INFO Success insert payment record:instance_id=v-qvYBygmW type=DISK payment_time=2018-03-14 10:31:11
+Tue, 27 Mar 2018 11:45:41 lingxu_connectors.py[line:39] INFO Success insert payment record:instance_id=v-FhBBTP4B type=DISK payment_time=2018-03-14 10:31:11
+Tue, 27 Mar 2018 11:45:41 lingxu_connectors.py[line:39] INFO Success insert payment record:instance_id=v-WPDmS5rT type=DISK payment_time=2018-03-14 10:31:11
+Tue, 27 Mar 2018 11:45:41 lingxu_connectors.py[line:39] INFO Success insert payment record:instance_id=v-BmTWZlKq type=DISK payment_time=2018-03-14 10:31:11
+Tue, 27 Mar 2018 11:45:41 lingxu_connectors.py[line:39] INFO Success insert payment record:instance_id=v-WxAL5OYn type=DISK payment_time=2018-03-14 10:31:11
+Tue, 27 Mar 2018 11:45:41 lingxu_connectors.py[line:39] INFO Success insert payment record:instance_id=v-eSVpAL49 type=DISK payment_time=2018-03-14 10:31:11
+Tue, 27 Mar 2018 11:45:41 lingxu_connectors.py[line:39] INFO Success insert payment record:instance_id=v-m7oTh4mS type=DISK payment_time=2018-03-14 10:31:11
+Tue, 27 Mar 2018 11:45:41 lingxu_connectors.py[line:39] INFO Success insert payment record:instance_id=v-IhEtyFiQ type=DISK payment_time=2018-03-14 10:31:11
+Tue, 27 Mar 2018 11:45:41 lingxu_connectors.py[line:39] INFO Success insert payment record:instance_id=v-8GueffiK type=DISK payment_time=2018-03-14 10:31:11
+Tue, 27 Mar 2018 11:45:42 lingxu_connectors.py[line:39] INFO Success insert payment record:instance_id=v-d0eFpsWl type=DISK payment_time=2018-03-14 10:31:11
+Tue, 27 Mar 2018 11:45:42 lingxu_connectors.py[line:39] INFO Success insert payment record:instance_id=v-Ez6ngyMy type=DISK payment_time=2018-03-14 10:31:11
+Tue, 27 Mar 2018 11:45:42 lingxu_connectors.py[line:39] INFO Success insert payment record:instance_id=v-YYtJ9Sd6 type=DISK payment_time=2018-03-14 10:31:11
+Tue, 27 Mar 2018 11:45:42 lingxu_connectors.py[line:39] INFO Success insert payment record:instance_id=v-aw2tvUfb type=DISK payment_time=2018-03-14 10:31:11
+Tue, 27 Mar 2018 11:45:42 lingxu_connectors.py[line:39] INFO Success insert payment record:instance_id=v-tGKwPo3B type=DISK payment_time=2018-03-14 10:31:11
+Tue, 27 Mar 2018 11:45:42 lingxu_connectors.py[line:39] INFO Success insert payment record:instance_id=v-uOLUZktJ type=DISK payment_time=2018-03-14 10:31:11
+Tue, 27 Mar 2018 11:45:42 lingxu_connectors.py[line:39] INFO Success insert payment record:instance_id=v-vXT0SvBB type=DISK payment_time=2018-03-14 10:31:11
+Tue, 27 Mar 2018 11:45:42 lingxu_connectors.py[line:39] INFO Success insert payment record:instance_id=v-BRR270Ui type=DISK payment_time=2018-03-14 10:31:11
+Tue, 27 Mar 2018 11:45:43 lingxu_connectors.py[line:39] INFO Success insert payment record:instance_id=v-u2N6AikM type=DISK payment_time=2018-03-14 10:31:11
+Tue, 27 Mar 2018 11:45:43 lingxu_connectors.py[line:39] INFO Success insert payment record:instance_id=v-kSFowMOD type=DISK payment_time=2018-03-14 10:31:11
+Tue, 27 Mar 2018 11:45:43 lingxu_connectors.py[line:39] INFO Success insert payment record:instance_id=v-qKoZX2qH type=DISK payment_time=2018-03-14 10:31:11
+Tue, 27 Mar 2018 11:45:43 lingxu_connectors.py[line:39] INFO Success insert payment record:instance_id=v-CPMjialv type=DISK payment_time=2018-03-14 10:31:11
+Tue, 27 Mar 2018 11:45:43 lingxu_connectors.py[line:39] INFO Success insert payment record:instance_id=v-FBpHnzP3 type=DISK payment_time=2018-03-14 10:31:11
+Tue, 27 Mar 2018 11:45:43 lingxu_connectors.py[line:39] INFO Success insert payment record:instance_id=v-XFj09QHt type=DISK payment_time=2018-03-14 10:31:11
+Tue, 27 Mar 2018 11:45:43 lingxu_connectors.py[line:39] INFO Success insert payment record:instance_id=v-NgaF71Id type=DISK payment_time=2018-03-14 10:31:11
+Tue, 27 Mar 2018 11:45:44 lingxu_connectors.py[line:39] INFO Success insert payment record:instance_id=i-b4q1doR7 type=VM payment_time=2018-03-14 10:31:11
+Tue, 27 Mar 2018 11:45:44 lingxu_connectors.py[line:39] INFO Success insert payment record:instance_id=i-5lN6RBdk type=VM payment_time=2018-03-14 10:31:11
+Tue, 27 Mar 2018 11:45:44 lingxu_connectors.py[line:39] INFO Success insert payment record:instance_id=i-EEkGFoIo type=VM payment_time=2018-03-14 10:31:11
+Tue, 27 Mar 2018 11:45:44 lingxu_connectors.py[line:39] INFO Success insert payment record:instance_id=i-ZkOLl2QA type=VM payment_time=2018-03-14 10:31:11
+Tue, 27 Mar 2018 11:45:44 lingxu_connectors.py[line:39] INFO Success insert payment record:instance_id=i-HdVfP5rR type=VM payment_time=2018-03-14 10:31:11
+Tue, 27 Mar 2018 11:45:44 lingxu_connectors.py[line:39] INFO Success insert payment record:instance_id=i-ZmE95gZj type=VM payment_time=2018-03-14 10:31:11
+Tue, 27 Mar 2018 11:45:45 lingxu_connectors.py[line:39] INFO Success insert payment record:instance_id=i-gAoMeoaF type=VM payment_time=2018-03-14 10:31:11
+Tue, 27 Mar 2018 11:45:45 lingxu_connectors.py[line:39] INFO Success insert payment record:instance_id=i-SkJTXCis type=VM payment_time=2018-03-14 10:31:11
+Tue, 27 Mar 2018 11:45:45 lingxu_connectors.py[line:39] INFO Success insert payment record:instance_id=i-pi0s860x type=VM payment_time=2018-03-14 10:31:11
+Tue, 27 Mar 2018 11:45:45 lingxu_connectors.py[line:39] INFO Success insert payment record:instance_id=i-24KpcIzQ type=VM payment_time=2018-03-14 10:31:11
+Tue, 27 Mar 2018 11:45:45 lingxu_connectors.py[line:39] INFO Success insert payment record:instance_id=i-vD15X5Tb type=VM payment_time=2018-03-14 10:31:11
+Tue, 27 Mar 2018 11:45:45 lingxu_connectors.py[line:39] INFO Success insert payment record:instance_id=i-NLZuJfut type=VM payment_time=2018-03-14 10:31:11
+Tue, 27 Mar 2018 11:45:45 lingxu_connectors.py[line:39] INFO Success insert payment record:instance_id=i-rWzLdsfX type=VM payment_time=2018-03-14 10:31:11
+Tue, 27 Mar 2018 11:45:45 lingxu_connectors.py[line:39] INFO Success insert payment record:instance_id=i-mz8XJpAz type=VM payment_time=2018-03-14 10:31:11
+Tue, 27 Mar 2018 11:45:45 lingxu_connectors.py[line:39] INFO Success insert payment record:instance_id=i-WM82MIbB type=VM payment_time=2018-03-14 10:31:11
+Tue, 27 Mar 2018 11:45:46 lingxu_connectors.py[line:39] INFO Success insert payment record:instance_id=i-5NSmEQcg type=VM payment_time=2018-03-14 10:31:11
+Tue, 27 Mar 2018 11:45:46 lingxu_connectors.py[line:39] INFO Success insert payment record:instance_id=i-oOxQKKdu type=VM payment_time=2018-03-14 10:31:11
+Tue, 27 Mar 2018 11:45:46 lingxu_connectors.py[line:39] INFO Success insert payment record:instance_id=i-AkDKgUpv type=VM payment_time=2018-03-14 10:31:11
+Tue, 27 Mar 2018 11:45:46 lingxu_connectors.py[line:39] INFO Success insert payment record:instance_id=i-nuVULWVf type=VM payment_time=2018-03-14 10:31:11
+Tue, 27 Mar 2018 11:45:46 lingxu_connectors.py[line:39] INFO Success insert payment record:instance_id=i-6K7XLPBx type=VM payment_time=2018-03-14 10:31:11
+Tue, 27 Mar 2018 11:45:46 lingxu_connectors.py[line:39] INFO Success insert payment record:instance_id=i-6qvpAImA type=VM payment_time=2018-03-14 10:31:11
+Tue, 27 Mar 2018 11:45:46 lingxu_connectors.py[line:39] INFO Success insert payment record:instance_id=i-NY8cd6Pl type=VM payment_time=2018-03-14 10:31:11
+Tue, 27 Mar 2018 11:45:46 lingxu_connectors.py[line:39] INFO Success insert payment record:instance_id=i-yZOxPdgU type=VM payment_time=2018-03-14 10:31:11
+Tue, 27 Mar 2018 11:45:47 lingxu_connectors.py[line:39] INFO Success insert payment record:instance_id=i-iEMF8EyD type=VM payment_time=2018-03-14 10:31:11
+Tue, 27 Mar 2018 11:45:47 lingxu_connectors.py[line:39] INFO Success insert payment record:instance_id=i-a06a50Yx type=VM payment_time=2018-03-14 10:31:11
+Tue, 27 Mar 2018 11:45:47 lingxu_connectors.py[line:39] INFO Success insert payment record:instance_id=i-navDq5Kg type=VM payment_time=2018-03-14 10:31:11
+Tue, 27 Mar 2018 11:45:47 lingxu_connectors.py[line:39] INFO Success insert payment record:instance_id=i-IkJq9dAy type=VM payment_time=2018-03-14 10:31:11
+Tue, 27 Mar 2018 11:45:47 lingxu_connectors.py[line:39] INFO Success insert payment record:instance_id=i-JkVQoW2m type=VM payment_time=2018-03-14 10:31:11
+Tue, 27 Mar 2018 11:45:47 lingxu_connectors.py[line:39] INFO Success insert payment record:instance_id=i-I5LMwpix type=VM payment_time=2018-03-14 10:31:11
+Tue, 27 Mar 2018 11:45:47 lingxu_connectors.py[line:39] INFO Success insert payment record:instance_id=i-XBIRzqpQ type=VM payment_time=2018-03-14 10:31:11
+Tue, 27 Mar 2018 11:45:47 lingxu_connectors.py[line:39] INFO Success insert payment record:instance_id=i-QRk2jMp1 type=VM payment_time=2018-03-14 10:31:11
+Tue, 27 Mar 2018 11:45:48 lingxu_connectors.py[line:39] INFO Success insert payment record:instance_id=i-I12SVxSm type=VM payment_time=2018-03-14 10:31:11
+Tue, 27 Mar 2018 11:45:48 lingxu_connectors.py[line:39] INFO Success insert payment record:instance_id=i-URjEB5c8 type=VM payment_time=2018-03-14 10:31:11
+Tue, 27 Mar 2018 11:45:48 lingxu_connectors.py[line:39] INFO Success insert payment record:instance_id=i-aIMmyhYS type=VM payment_time=2018-03-14 10:31:11
+Tue, 27 Mar 2018 11:45:48 lingxu_connectors.py[line:39] INFO Success insert payment record:instance_id=i-AP51ys5m type=VM payment_time=2018-03-14 10:31:11
+Tue, 27 Mar 2018 11:45:48 lingxu_connectors.py[line:39] INFO Success insert payment record:instance_id=i-EEh0ZxAT type=VM payment_time=2018-03-14 10:31:11
+Tue, 27 Mar 2018 11:45:48 lingxu_connectors.py[line:39] INFO Success insert payment record:instance_id=i-eJcFCUEj type=VM payment_time=2018-03-14 10:31:11
+Tue, 27 Mar 2018 11:45:48 lingxu_connectors.py[line:39] INFO Success insert payment record:instance_id=i-BjXsNjbl type=VM payment_time=2018-03-14 10:31:11
+Tue, 27 Mar 2018 11:45:48 lingxu_connectors.py[line:39] INFO Success insert payment record:instance_id=i-ow33qyyJ type=VM payment_time=2018-03-14 10:31:11
+Tue, 27 Mar 2018 11:45:48 lingxu_connectors.py[line:39] INFO Success insert payment record:instance_id=i-hRjo9a1e type=VM payment_time=2018-03-14 10:31:11
+Tue, 27 Mar 2018 11:45:49 lingxu_connectors.py[line:39] INFO Success insert payment record:instance_id=i-fsyWEGy7 type=VM payment_time=2018-03-14 10:31:11
+Tue, 27 Mar 2018 11:45:49 lingxu_connectors.py[line:39] INFO Success insert payment record:instance_id=i-N4PAahFw type=VM payment_time=2018-03-14 10:31:11
+Tue, 27 Mar 2018 11:45:49 lingxu_connectors.py[line:39] INFO Success insert payment record:instance_id=i-5bYbvzkx type=VM payment_time=2018-03-14 10:31:11
+Tue, 27 Mar 2018 11:45:49 lingxu_connectors.py[line:39] INFO Success insert payment record:instance_id=i-8xTdpwVu type=VM payment_time=2018-03-14 10:31:11
+Tue, 27 Mar 2018 11:45:49 lingxu_connectors.py[line:39] INFO Success insert payment record:instance_id=i-NZ4EsH7K type=VM payment_time=2018-03-14 10:31:11
+Tue, 27 Mar 2018 11:45:49 lingxu_connectors.py[line:39] INFO Success insert payment record:instance_id=i-xQwzgRxe type=VM payment_time=2018-03-14 10:31:11
+Tue, 27 Mar 2018 11:45:49 lingxu_connectors.py[line:39] INFO Success insert payment record:instance_id=i-t4mG2EVF type=VM payment_time=2018-03-14 10:31:11
+Tue, 27 Mar 2018 11:45:49 lingxu_connectors.py[line:39] INFO Success insert payment record:instance_id=i-2asah4lZ type=VM payment_time=2018-03-14 10:31:11
+Tue, 27 Mar 2018 11:45:50 lingxu_connectors.py[line:39] INFO Success insert payment record:instance_id=i-UvI50Pkb type=VM payment_time=2018-03-14 10:31:11
+Tue, 27 Mar 2018 11:45:50 lingxu_connectors.py[line:39] INFO Success insert payment record:instance_id=i-5TDxt5lu type=VM payment_time=2018-03-14 10:31:11
+Tue, 27 Mar 2018 11:45:50 lingxu_connectors.py[line:39] INFO Success insert payment record:instance_id=v-3EwSH0z1 type=DISK payment_time=2018-03-14 10:31:11
+Tue, 27 Mar 2018 11:45:50 lingxu_connectors.py[line:39] INFO Success insert payment record:instance_id=v-B7VNmxQG type=DISK payment_time=2018-03-14 10:31:11
+Tue, 27 Mar 2018 11:45:50 lingxu_connectors.py[line:39] INFO Success insert payment record:instance_id=v-1AJWv6TM type=DISK payment_time=2018-03-14 10:31:11
+Tue, 27 Mar 2018 11:45:50 lingxu_connectors.py[line:39] INFO Success insert payment record:instance_id=v-r0FvRc0i type=DISK payment_time=2018-03-14 10:31:11
+Tue, 27 Mar 2018 11:45:50 lingxu_connectors.py[line:39] INFO Success insert payment record:instance_id=v-iMbgnrda type=DISK payment_time=2018-03-14 10:31:11
+Tue, 27 Mar 2018 11:45:50 lingxu_connectors.py[line:39] INFO Success insert payment record:instance_id=v-7JSEG2cP type=DISK payment_time=2018-03-14 10:31:11
+Tue, 27 Mar 2018 11:45:51 lingxu_connectors.py[line:39] INFO Success insert payment record:instance_id=v-8aA20Xdu type=DISK payment_time=2018-03-14 10:31:11
+Tue, 27 Mar 2018 11:45:51 lingxu_connectors.py[line:39] INFO Success insert payment record:instance_id=v-Z8RXF6kP type=DISK payment_time=2018-03-14 10:31:11
+Tue, 27 Mar 2018 11:45:51 lingxu_connectors.py[line:39] INFO Success insert payment record:instance_id=v-XumhJTAB type=DISK payment_time=2018-03-14 10:31:11
+Tue, 27 Mar 2018 11:45:51 lingxu_connectors.py[line:39] INFO Success insert payment record:instance_id=v-vPofsbop type=DISK payment_time=2018-03-14 10:31:11
+Tue, 27 Mar 2018 11:45:51 lingxu_connectors.py[line:39] INFO Success insert payment record:instance_id=v-ZXFLctt2 type=DISK payment_time=2018-03-14 10:31:11
+Tue, 27 Mar 2018 11:45:51 lingxu_connectors.py[line:39] INFO Success insert payment record:instance_id=v-jNAZ2sbW type=DISK payment_time=2018-03-14 10:31:11
+Tue, 27 Mar 2018 11:45:51 lingxu_connectors.py[line:39] INFO Success insert payment record:instance_id=v-3GCASYzt type=DISK payment_time=2018-03-14 10:31:11
+Tue, 27 Mar 2018 11:45:51 lingxu_connectors.py[line:39] INFO Success insert payment record:instance_id=v-iw8a9fD2 type=DISK payment_time=2018-03-14 10:31:11
+Tue, 27 Mar 2018 11:45:52 lingxu_connectors.py[line:39] INFO Success insert payment record:instance_id=v-rhtngoCn type=DISK payment_time=2018-03-14 10:31:11
+Tue, 27 Mar 2018 11:45:52 lingxu_connectors.py[line:39] INFO Success insert payment record:instance_id=v-HolFHHE5 type=DISK payment_time=2018-03-14 10:31:11
+Tue, 27 Mar 2018 11:45:52 lingxu_connectors.py[line:39] INFO Success insert payment record:instance_id=v-ZaUSNQps type=DISK payment_time=2018-03-14 10:31:11
+Tue, 27 Mar 2018 11:45:52 lingxu_connectors.py[line:39] INFO Success insert payment record:instance_id=v-JVu7xOJT type=DISK payment_time=2018-03-14 10:31:11
+Tue, 27 Mar 2018 11:45:52 lingxu_connectors.py[line:39] INFO Success insert payment record:instance_id=v-W2hte1BY type=DISK payment_time=2018-03-14 10:31:11
+Tue, 27 Mar 2018 11:45:52 lingxu_connectors.py[line:39] INFO Success insert payment record:instance_id=v-yA8lC62X type=DISK payment_time=2018-03-14 10:31:11
+Tue, 27 Mar 2018 11:45:52 lingxu_connectors.py[line:39] INFO Success insert payment record:instance_id=v-PDC6I8kE type=DISK payment_time=2018-03-14 10:31:11
+Tue, 27 Mar 2018 11:45:52 lingxu_connectors.py[line:39] INFO Success insert payment record:instance_id=v-Ovtetptk type=DISK payment_time=2018-03-14 10:31:11
+Tue, 27 Mar 2018 11:45:52 lingxu_connectors.py[line:39] INFO Success insert payment record:instance_id=v-U1r3pJfT type=DISK payment_time=2018-03-14 10:31:11
+Tue, 27 Mar 2018 11:45:53 lingxu_connectors.py[line:39] INFO Success insert payment record:instance_id=v-BKzeHFc0 type=DISK payment_time=2018-03-14 10:31:11
+Tue, 27 Mar 2018 11:45:53 lingxu_connectors.py[line:39] INFO Success insert payment record:instance_id=v-A9A5vAi7 type=DISK payment_time=2018-03-14 10:31:11
+Tue, 27 Mar 2018 11:45:53 lingxu_connectors.py[line:39] INFO Success insert payment record:instance_id=v-REmay8a6 type=DISK payment_time=2018-03-14 10:31:11
+Tue, 27 Mar 2018 11:45:53 lingxu_connectors.py[line:39] INFO Success insert payment record:instance_id=v-OGTRBUk2 type=DISK payment_time=2018-03-14 10:31:11
+Tue, 27 Mar 2018 11:45:53 lingxu_connectors.py[line:39] INFO Success insert payment record:instance_id=v-TQUeYjmf type=DISK payment_time=2018-03-14 10:31:11
+Tue, 27 Mar 2018 11:45:53 lingxu_connectors.py[line:39] INFO Success insert payment record:instance_id=v-Z2z1SE8P type=DISK payment_time=2018-03-14 10:31:11
+Tue, 27 Mar 2018 11:45:53 lingxu_connectors.py[line:39] INFO Success insert payment record:instance_id=v-XzMBIt6a type=DISK payment_time=2018-03-14 10:31:11
+Tue, 27 Mar 2018 11:45:53 lingxu_connectors.py[line:39] INFO Success insert payment record:instance_id=v-LqanHKL5 type=DISK payment_time=2018-03-14 10:31:11
+Tue, 27 Mar 2018 11:45:54 lingxu_connectors.py[line:39] INFO Success insert payment record:instance_id=v-ANAJqlvq type=DISK payment_time=2018-03-14 10:31:11
+Tue, 27 Mar 2018 11:45:54 lingxu_connectors.py[line:39] INFO Success insert payment record:instance_id=v-tjoqzqcD type=DISK payment_time=2018-03-14 10:31:11
+Tue, 27 Mar 2018 11:45:54 lingxu_connectors.py[line:39] INFO Success insert payment record:instance_id=v-5n5gHxk4 type=DISK payment_time=2018-03-14 10:31:11
+Tue, 27 Mar 2018 11:45:54 lingxu_connectors.py[line:39] INFO Success insert payment record:instance_id=v-jHy1lY04 type=DISK payment_time=2018-03-14 10:31:11
+Tue, 27 Mar 2018 11:45:54 lingxu_connectors.py[line:39] INFO Success insert payment record:instance_id=v-Jf5496AG type=DISK payment_time=2018-03-14 10:31:11
+Tue, 27 Mar 2018 11:45:54 lingxu_connectors.py[line:39] INFO Success insert payment record:instance_id=v-UYlCrm3D type=DISK payment_time=2018-03-14 10:31:11
+Tue, 27 Mar 2018 11:45:54 lingxu_connectors.py[line:39] INFO Success insert payment record:instance_id=v-4hLLOdBp type=DISK payment_time=2018-03-14 10:31:11
+Tue, 27 Mar 2018 11:45:54 lingxu_connectors.py[line:39] INFO Success insert payment record:instance_id=v-paQypEFg type=DISK payment_time=2018-03-14 10:31:11
+Tue, 27 Mar 2018 11:45:55 lingxu_connectors.py[line:39] INFO Success insert payment record:instance_id=v-C9FlxK5z type=DISK payment_time=2018-03-14 10:31:11
+Tue, 27 Mar 2018 11:45:55 lingxu_connectors.py[line:39] INFO Success insert payment record:instance_id=v-OHJkZbED type=DISK payment_time=2018-03-14 10:31:11
+Tue, 27 Mar 2018 11:45:55 lingxu_connectors.py[line:39] INFO Success insert payment record:instance_id=v-6dhgfQys type=DISK payment_time=2018-03-14 10:31:11
+Tue, 27 Mar 2018 11:45:55 lingxu_connectors.py[line:39] INFO Success insert payment record:instance_id=v-TgLjdvA9 type=DISK payment_time=2018-03-14 10:31:11
+Tue, 27 Mar 2018 11:45:55 lingxu_connectors.py[line:39] INFO Success insert payment record:instance_id=v-1jJb6V73 type=DISK payment_time=2018-03-14 10:31:11
+Tue, 27 Mar 2018 11:45:55 lingxu_connectors.py[line:39] INFO Success insert payment record:instance_id=v-KcjsUknK type=DISK payment_time=2018-03-14 10:31:11
+Tue, 27 Mar 2018 11:45:55 lingxu_connectors.py[line:39] INFO Success insert payment record:instance_id=v-a6DQS3dU type=DISK payment_time=2018-03-14 10:31:11
+Tue, 27 Mar 2018 11:45:55 lingxu_connectors.py[line:39] INFO Success insert payment record:instance_id=v-5DwRwdKZ type=DISK payment_time=2018-03-14 10:31:11
+Tue, 27 Mar 2018 11:45:55 lingxu_connectors.py[line:39] INFO Success insert payment record:instance_id=v-SvMtIU9w type=DISK payment_time=2018-03-14 10:31:11
+Tue, 27 Mar 2018 11:45:56 lingxu_connectors.py[line:39] INFO Success insert payment record:instance_id=v-n64eIcdM type=DISK payment_time=2018-03-14 10:31:11
+Tue, 27 Mar 2018 11:45:56 lingxu_connectors.py[line:39] INFO Success insert payment record:instance_id=v-IGE59uSk type=DISK payment_time=2018-03-14 10:31:11
+Tue, 27 Mar 2018 11:45:56 lingxu_connectors.py[line:39] INFO Success insert payment record:instance_id=v-emJxZ9y2 type=DISK payment_time=2018-03-14 10:31:11
+Tue, 27 Mar 2018 11:45:56 lingxu_connectors.py[line:39] INFO Success insert payment record:instance_id=v-eAZTSNss type=DISK payment_time=2018-03-14 10:31:11
+Tue, 27 Mar 2018 11:45:56 lingxu_connectors.py[line:39] INFO Success insert payment record:instance_id=v-t60Kf7FV type=DISK payment_time=2018-03-14 10:31:11
+Tue, 27 Mar 2018 11:45:56 lingxu_connectors.py[line:39] INFO Success insert payment record:instance_id=v-tzYPRkrt type=DISK payment_time=2018-03-14 10:31:11
+Tue, 27 Mar 2018 11:45:56 lingxu_connectors.py[line:39] INFO Success insert payment record:instance_id=v-l9BymkCz type=DISK payment_time=2018-03-14 10:31:11
+Tue, 27 Mar 2018 11:45:56 lingxu_connectors.py[line:39] INFO Success insert payment record:instance_id=v-Ietp0A0O type=DISK payment_time=2018-03-14 10:31:11
+Tue, 27 Mar 2018 11:45:57 lingxu_connectors.py[line:39] INFO Success insert payment record:instance_id=v-0CTIJCmf type=DISK payment_time=2018-03-14 10:31:11
+Tue, 27 Mar 2018 11:45:57 lingxu_connectors.py[line:39] INFO Success insert payment record:instance_id=v-ZesjtqgH type=DISK payment_time=2018-03-14 10:31:11
+Tue, 27 Mar 2018 11:45:57 lingxu_connectors.py[line:39] INFO Success insert payment record:instance_id=v-q0bt0LiD type=DISK payment_time=2018-03-14 10:31:11
+Tue, 27 Mar 2018 11:45:57 lingxu_connectors.py[line:39] INFO Success insert payment record:instance_id=v-agwVj9ML type=DISK payment_time=2018-03-14 10:31:11
+Tue, 27 Mar 2018 11:45:57 lingxu_connectors.py[line:39] INFO Success insert payment record:instance_id=v-GEvmgr47 type=DISK payment_time=2018-03-14 10:31:11
+Tue, 27 Mar 2018 11:45:57 lingxu_connectors.py[line:39] INFO Success insert payment record:instance_id=v-2FHCbgjB type=DISK payment_time=2018-03-14 10:31:11
+Tue, 27 Mar 2018 11:45:57 lingxu_connectors.py[line:39] INFO Success insert payment record:instance_id=v-dbO4iZNa type=DISK payment_time=2018-03-14 10:31:11
+Tue, 27 Mar 2018 11:45:57 lingxu_connectors.py[line:39] INFO Success insert payment record:instance_id=v-7q6Cq2hL type=DISK payment_time=2018-03-14 10:31:11
+Tue, 27 Mar 2018 11:45:58 lingxu_connectors.py[line:39] INFO Success insert payment record:instance_id=v-JXEc6FtF type=DISK payment_time=2018-03-14 10:31:11
+Tue, 27 Mar 2018 11:45:58 lingxu_connectors.py[line:39] INFO Success insert payment record:instance_id=v-SUHXUZA2 type=DISK payment_time=2018-03-14 10:31:11
+Tue, 27 Mar 2018 11:45:58 lingxu_connectors.py[line:39] INFO Success insert payment record:instance_id=v-br8CjvXi type=DISK payment_time=2018-03-14 10:31:11
+Tue, 27 Mar 2018 11:45:58 lingxu_connectors.py[line:39] INFO Success insert payment record:instance_id=v-XfLVLPsv type=DISK payment_time=2018-03-14 10:31:11
+Tue, 27 Mar 2018 11:45:58 lingxu_connectors.py[line:39] INFO Success insert payment record:instance_id=v-68mQFbdz type=DISK payment_time=2018-03-14 10:31:11
+Tue, 27 Mar 2018 11:45:58 lingxu_connectors.py[line:39] INFO Success insert payment record:instance_id=v-vPxfCjpM type=DISK payment_time=2018-03-14 10:31:11
+Tue, 27 Mar 2018 11:45:58 lingxu_connectors.py[line:39] INFO Success insert payment record:instance_id=v-9wViDB7k type=DISK payment_time=2018-03-14 10:31:11
+Tue, 27 Mar 2018 11:45:58 lingxu_connectors.py[line:39] INFO Success insert payment record:instance_id=v-KJkPS2eC type=DISK payment_time=2018-03-14 10:31:11
+Tue, 27 Mar 2018 11:45:59 lingxu_connectors.py[line:39] INFO Success insert payment record:instance_id=v-TdoycGiq type=DISK payment_time=2018-03-14 10:31:11
+Tue, 27 Mar 2018 11:45:59 lingxu_connectors.py[line:39] INFO Success insert payment record:instance_id=v-MpsORzDV type=DISK payment_time=2018-03-14 10:31:11
+Tue, 27 Mar 2018 11:45:59 lingxu_connectors.py[line:39] INFO Success insert payment record:instance_id=v-8IJ6HZHy type=DISK payment_time=2018-03-14 10:31:11
+Tue, 27 Mar 2018 11:45:59 lingxu_connectors.py[line:39] INFO Success insert payment record:instance_id=v-uRn4Jywx type=DISK payment_time=2018-03-14 10:31:11
+Tue, 27 Mar 2018 11:45:59 lingxu_connectors.py[line:39] INFO Success insert payment record:instance_id=v-550tuW9D type=DISK payment_time=2018-03-14 10:31:11
+Tue, 27 Mar 2018 11:45:59 lingxu_connectors.py[line:39] INFO Success insert payment record:instance_id=v-YrEx2U5v type=DISK payment_time=2018-03-14 10:31:11
+Tue, 27 Mar 2018 11:45:59 lingxu_connectors.py[line:39] INFO Success insert payment record:instance_id=v-Z5SfrfkH type=DISK payment_time=2018-03-14 10:31:11
+Tue, 27 Mar 2018 11:45:59 lingxu_connectors.py[line:39] INFO Success insert payment record:instance_id=v-RU90mV5T type=DISK payment_time=2018-03-14 10:31:11
+Tue, 27 Mar 2018 11:45:59 lingxu_connectors.py[line:39] INFO Success insert payment record:instance_id=v-dKjpa7WT type=DISK payment_time=2018-03-14 10:31:11
+Tue, 27 Mar 2018 11:46:00 lingxu_connectors.py[line:39] INFO Success insert payment record:instance_id=v-UXOODNnR type=DISK payment_time=2018-03-14 10:31:11
+Tue, 27 Mar 2018 11:46:00 lingxu_connectors.py[line:39] INFO Success insert payment record:instance_id=v-XiVg3YuH type=DISK payment_time=2018-03-14 10:31:11
+Tue, 27 Mar 2018 11:46:00 lingxu_connectors.py[line:39] INFO Success insert payment record:instance_id=v-nUxkzPr2 type=DISK payment_time=2018-03-14 10:31:11
+Tue, 27 Mar 2018 11:46:00 lingxu_connectors.py[line:39] INFO Success insert payment record:instance_id=v-DkuEHrd3 type=DISK payment_time=2018-03-14 10:31:11
+Tue, 27 Mar 2018 11:46:00 lingxu_connectors.py[line:39] INFO Success insert payment record:instance_id=v-eEYWnSjX type=DISK payment_time=2018-03-14 10:31:11
+Tue, 27 Mar 2018 11:46:00 lingxu_connectors.py[line:39] INFO Success insert payment record:instance_id=v-EJWf1Jwz type=DISK payment_time=2018-03-14 10:31:11
+Tue, 27 Mar 2018 11:46:00 lingxu_connectors.py[line:39] INFO Success insert payment record:instance_id=v-LfA7qjAM type=DISK payment_time=2018-03-14 10:31:11
+Tue, 27 Mar 2018 11:46:00 lingxu_connectors.py[line:39] INFO Success insert payment record:instance_id=v-SooyHxzU type=DISK payment_time=2018-03-14 10:31:11
+Tue, 27 Mar 2018 11:46:01 lingxu_connectors.py[line:39] INFO Success insert payment record:instance_id=v-hDhWGHEP type=DISK payment_time=2018-03-14 10:31:11
+Tue, 27 Mar 2018 11:46:01 lingxu_connectors.py[line:39] INFO Success insert payment record:instance_id=v-5Ed6euOK type=DISK payment_time=2018-03-14 10:31:11
+Tue, 27 Mar 2018 11:46:01 lingxu_connectors.py[line:39] INFO Success insert payment record:instance_id=v-pmAa1lHC type=DISK payment_time=2018-03-14 10:31:11
+Tue, 27 Mar 2018 11:46:01 lingxu_connectors.py[line:39] INFO Success insert payment record:instance_id=v-0CsseWwE type=DISK payment_time=2018-03-14 10:31:11
+Tue, 27 Mar 2018 11:46:01 lingxu_connectors.py[line:39] INFO Success insert payment record:instance_id=v-41upW0Su type=DISK payment_time=2018-03-14 10:31:11
+Tue, 27 Mar 2018 11:46:01 lingxu_connectors.py[line:39] INFO Success insert payment record:instance_id=v-JQ6UAGtU type=DISK payment_time=2018-03-14 10:31:11
+Tue, 27 Mar 2018 11:46:01 lingxu_connectors.py[line:39] INFO Success insert payment record:instance_id=v-ExQ56q2w type=DISK payment_time=2018-03-14 10:31:11
+Tue, 27 Mar 2018 11:46:01 lingxu_connectors.py[line:39] INFO Success insert payment record:instance_id=v-DL3oFq66 type=DISK payment_time=2018-03-14 10:31:11
+Tue, 27 Mar 2018 11:46:02 lingxu_connectors.py[line:39] INFO Success insert payment record:instance_id=v-QDKNvgVi type=DISK payment_time=2018-03-14 10:31:11
+Tue, 27 Mar 2018 11:46:02 lingxu_connectors.py[line:39] INFO Success insert payment record:instance_id=v-nORX5luf type=DISK payment_time=2018-03-14 10:31:11
+Tue, 27 Mar 2018 11:46:02 lingxu_connectors.py[line:39] INFO Success insert payment record:instance_id=v-0G0T3Zpw type=DISK payment_time=2018-03-14 10:31:11
+Tue, 27 Mar 2018 11:46:02 lingxu_connectors.py[line:39] INFO Success insert payment record:instance_id=i-YT9wBnJO type=VM payment_time=2018-03-14 10:31:11
+Tue, 27 Mar 2018 11:46:02 lingxu_connectors.py[line:39] INFO Success insert payment record:instance_id=i-tvpvtbim type=VM payment_time=2018-03-14 10:31:11
+Tue, 27 Mar 2018 11:46:03 lingxu_connectors.py[line:39] INFO Success insert payment record:instance_id=i-65RqTXsd type=VM payment_time=2018-03-14 10:31:11
+Tue, 27 Mar 2018 11:46:03 lingxu_connectors.py[line:39] INFO Success insert payment record:instance_id=v-2ZFmSALy type=DISK payment_time=2018-03-14 10:31:11
+Tue, 27 Mar 2018 11:46:03 lingxu_connectors.py[line:39] INFO Success insert payment record:instance_id=v-5MMFjH8Q type=DISK payment_time=2018-03-14 10:31:11
+Tue, 27 Mar 2018 11:46:03 lingxu_connectors.py[line:39] INFO Success insert payment record:instance_id=v-gfzgNb46 type=DISK payment_time=2018-03-14 10:31:11

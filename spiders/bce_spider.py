@@ -50,11 +50,12 @@ class BceSpider(object):
         list_bill_param['end_time'] = end_time_str
         self.logger.info('Get the bill list from %s to %s' %
                          (start_time_str, end_time_str))
-        list_bill_result = bce_list_bill_adapter.execute(
+        bill_list = bce_list_bill_adapter.execute(
             session, list_bill_param, None)
 
-        self.result_file.write('Time: ' + start_time_str + '~' + end_time_str + '\n')
-        if(not list_bill_result):
+        self.result_file.write(
+            'Time: ' + start_time_str + '~' + end_time_str + '\n')
+        if(not bill_list):
             self.logger.info('No new bills from %s to %s' %
                              (start_time_str, end_time_str))
             self.result_file.write('No new bills')
@@ -62,18 +63,23 @@ class BceSpider(object):
         self.result_file.write(
             'instance_id,type,payment_type,payment_sub_type,payment_time,payment_period\n')
 
-        bill_time = list_bill_result['bill_time']
-        bill_list = list_bill_result['bill_list']
-
         bce_bill_details_adapter = BceBillDetailsAdapter(
             self.bce_conf['bce_bill_details_url'], self.bce_conf['retry_count'])
         lingxu_connector = LingxuConnector(**self.lingxu_db_conf)
+        GMT = pytz.timezone('GMT')
         for bill in bill_list:
             bill_id = bill['billingId']
+            bill_time_utc_str = bill['endTime']
+            bill_time = datetime.datetime.strptime(
+                bill_time_utc_str, '%Y-%m-%dT%H:%M:%SZ')
+            bill_time = bill_time.replace(tzinfo=GMT).astimezone(
+                pytz.timezone('Asia/Shanghai'))
+            bill_time_local_str = datetime.datetime.strftime(
+                bill_time, '%Y-%m-%d %H:%M:%S')
             bill_details_param = {}
             bill_details_param['bill_id'] = bill_id
             bill_details_param['csrf_token'] = csrf_token
-            bill_details_param['bill_time'] = bill_time
+            bill_details_param['bill_time'] = bill_time_local_str
             instance_payment_list = bce_bill_details_adapter.execute(
                 session, bill_details_param, None)
             success_list = []
@@ -84,10 +90,11 @@ class BceSpider(object):
     def persist_instance_payment_list(self, db_connector, instance_payment_list, success_list):
         if(not instance_payment_list):
             return
-        db_connector.insert_instance_payment_list(instance_payment_list, success_list)
+        db_connector.insert_instance_payment_list(
+            instance_payment_list, success_list)
 
     def record_success_list(self, result_file, success_list):
         if(not success_list):
             return
         for instance_payment in success_list:
-            result_file.write(','.join(map(str,instance_payment)) + '\n')
+            result_file.write(','.join(map(str, instance_payment)) + '\n')

@@ -72,18 +72,7 @@ class BceListBillsAdapter(BaseAdapter):
         bill_list_response_json = json.loads(response.text)
         bill_list = bill_list_response_json['page']
         bill_list = bill_list['result']
-        GMT = pytz.timezone('GMT')
-        if(bill_list):
-            bill_time_utc_str = bill_list[0]['endTime']
-            bill_time = datetime.strptime(
-                bill_time_utc_str, '%Y-%m-%dT%H:%M:%SZ')
-            bill_time = bill_time.replace(tzinfo=GMT).astimezone(
-                pytz.timezone('Asia/Shanghai'))
-            bill_time_local_str = datetime.strftime(
-                bill_time, '%Y-%m-%d %H:%M:%S')
-            result['bill_list'] = bill_list
-            result['bill_time'] = bill_time_local_str
-        return result
+        return bill_list
 
 
 class BceBillDetailsAdapter(BaseAdapter):

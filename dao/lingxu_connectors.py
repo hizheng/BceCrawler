@@ -20,8 +20,7 @@ class LingxuConnector(object):
                                passwd=self.password, db=self.db_name)
         return conn
 
-    def insert_instance_payment_list(self, instance_payment_list):
-        success_list = []
+    def insert_instance_payment_list(self, instance_payment_list, success_list):
         if(instance_payment_list):
             conn = self.get_connection()
             cursor = conn.cursor()
@@ -47,7 +46,6 @@ class LingxuConnector(object):
                         % (instance_payment[0], instance_payment[1], instance_payment[4]))
                     conn.rollback()
             conn.close()
-        return success_list
 
     def check_instance_payment(self, instance_payment):
         conn = self.get_connection()

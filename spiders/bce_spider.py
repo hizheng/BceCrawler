@@ -71,14 +71,15 @@ class BceSpider(object):
             bill_details_param['bill_time'] = bill_time
             instance_payment_list = bce_bill_details_adapter.execute(
                 session, bill_details_param, None)
-            success_list = self.persist_instance_payment_list(
-                lingxu_connector, instance_payment_list)
+            success_list = []
+            self.persist_instance_payment_list(
+                lingxu_connector, instance_payment_list, success_list)
             self.record_success_list(self.result_file, success_list)
 
-    def persist_instance_payment_list(self, db_connector, instance_payment_list):
+    def persist_instance_payment_list(self, db_connector, instance_payment_list, success_list):
         if(not instance_payment_list):
             return
-        db_connector.insert_instance_payment_list(instance_payment_list)
+        db_connector.insert_instance_payment_list(instance_payment_list, success_list)
 
     def record_success_list(self, result_file, success_list):
         if(not success_list):

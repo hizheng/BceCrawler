@@ -64,7 +64,6 @@ def run():
     lingxu_db_conf['user_name'] = lingxu_db_user_name
     lingxu_db_conf['password'] = lingxu_db_password
     lingxu_db_conf['db_name'] = lingxu_db_name
-    bce_spider = BceSpider(bce_conf, lingxu_db_conf)
 
     start_time = None
     end_time = None
@@ -77,7 +76,14 @@ def run():
         end_time = datetime.strptime(end_time_str, '%Y-%m-%d %H:%M:%S')
         end_time = end_time.replace(tzinfo=tz_local).astimezone(GMT)
 
+    result_file = open(sys.path[0] + '/result/result.csv', 'w')
+    result_file.write(
+        'instance_id,type,payment_type,payment_sub_type,payment_time,payment_period\n')
+
+    bce_spider = BceSpider(bce_conf, lingxu_db_conf, result_file)
     bce_spider.crawl(start_time, end_time)
+
+    result_file.close()
 
 
 if __name__ == '__main__':

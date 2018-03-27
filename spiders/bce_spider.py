@@ -5,15 +5,17 @@ from adapters.bce_adapters import *
 from dao.lingxu_connectors import *
 import datetime
 import logging
+import sys
 
 
 class BceSpider(object):
     """docstring for BceSpider"""
 
-    def __init__(self, bce_conf, lingxu_db_conf):
+    def __init__(self, bce_conf, lingxu_db_conf, result_file):
         super(BceSpider, self).__init__()
         self.bce_conf = bce_conf
         self.lingxu_db_conf = lingxu_db_conf
+        self.result_file = result_file
         self.logger = logging.getLogger('root')
 
     def crawl(self, start_time=None, end_time=None):
@@ -69,9 +71,17 @@ class BceSpider(object):
             bill_details_param['bill_time'] = bill_time
             instance_payment_list = bce_bill_details_adapter.execute(
                 session, bill_details_param, None)
-            self.persist_instance_payment_list(lingxu_connector, instance_payment_list)
+            success_list = self.persist_instance_payment_list(
+                lingxu_connector, instance_payment_list)
+            self.record_success_list(self.result_file, success_list)
 
     def persist_instance_payment_list(self, db_connector, instance_payment_list):
         if(not instance_payment_list):
             return
         db_connector.insert_instance_payment_list(instance_payment_list)
+
+    def record_success_list(self, result_file, success_list):
+        if(not success_list):
+            return
+        for instance_payment in success_list:
+            result_file.write(','.join(map(str,instance_payment)) + '\n')

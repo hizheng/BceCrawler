@@ -21,6 +21,7 @@ class LingxuConnector(object):
         return conn
 
     def insert_instance_payment_list(self, instance_payment_list):
+        success_list = []
         if(instance_payment_list):
             conn = self.get_connection()
             cursor = conn.cursor()
@@ -32,9 +33,11 @@ class LingxuConnector(object):
                         'Payment record already exists:' + 'instance_id=%s type=%s payment_time=%s' % (instance_payment[0], instance_payment[1], instance_payment[4]))
                     continue
                 try:
+                    # sql = "insert into audit_instance_payment_hist(instance_id, type, payment_type, payment_sub_type, payment_time, payment_period, create_time, update_time) values('%s', '%s', '%s', '%s', '%s', '%f', NOW(), NOW())" % instance_payment
                     sql = "insert into tmp_test(instance_id, type, payment_type, payment_sub_type, payment_time, payment_period, create_time, update_time) values('%s', '%s', '%s', '%s', '%s', '%f', NOW(), NOW())" % instance_payment
                     cursor.execute(sql)
                     conn.commit()
+                    success_list.append(instance_payment)
                     self.logger.info(
                         'Success insert payment record:' + 'instance_id=%s type=%s payment_time=%s' % (instance_payment[0], instance_payment[1], instance_payment[4]))
                 except Exception as e:
@@ -44,6 +47,7 @@ class LingxuConnector(object):
                         % (instance_payment[0], instance_payment[1], instance_payment[4]))
                     conn.rollback()
             conn.close()
+        return success_list
 
     def check_instance_payment(self, instance_payment):
         conn = self.get_connection()
@@ -51,6 +55,7 @@ class LingxuConnector(object):
         instance_id = instance_payment[0]
         payment_time = instance_payment[4]
         instance_type = instance_payment[1]
+        # sql = "select count(*) from audit_instance_payment_hist where instance_id = '%s' and type = '%s' and payment_time = '%s'" % (
         sql = "select count(*) from tmp_test where instance_id = '%s' and type = '%s' and payment_time = '%s'" % (
             instance_id, instance_type, payment_time)
         is_exist = True
@@ -59,7 +64,7 @@ class LingxuConnector(object):
             row = cursor.fetchone()
             if(row[0] == 0):
                 is_exist = False
-        except Exception as e: 
+        except Exception as e:
             logging.exception(
                 'Exception occurs when check instance payment:' + 'instance_id=%s type=%s payment_time=%s' % (instance_id, instance_type, payment_time))
         conn.close()

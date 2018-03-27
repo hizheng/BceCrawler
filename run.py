@@ -77,8 +77,6 @@ def run():
         end_time = end_time.replace(tzinfo=tz_local).astimezone(GMT)
 
     result_file = open(sys.path[0] + '/result/result.csv', 'w')
-    result_file.write(
-        'instance_id,type,payment_type,payment_sub_type,payment_time,payment_period\n')
 
     bce_spider = BceSpider(bce_conf, lingxu_db_conf, result_file)
     bce_spider.crawl(start_time, end_time)

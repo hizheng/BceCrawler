@@ -53,13 +53,13 @@ class BceSpider(object):
         list_bill_result = bce_list_bill_adapter.execute(
             session, list_bill_param, None)
 
-        result_file.write('Time: ' + start_time_str + '~' + end_time_str + '\n')
+        self.result_file.write('Time: ' + start_time_str + '~' + end_time_str + '\n')
         if(not list_bill_result):
             self.logger.info('No new bills from %s to %s' %
                              (start_time_str, end_time_str))
-            result_file.write('No new bills')
+            self.result_file.write('No new bills')
             return
-        result_file.write(
+        self.result_file.write(
             'instance_id,type,payment_type,payment_sub_type,payment_time,payment_period\n')
 
         bill_time = list_bill_result['bill_time']

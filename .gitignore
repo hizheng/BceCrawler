@@ -1,0 +1,4 @@
+config/
+logs/
+spiders/bce_spider_deprecate.py
+*.pyc

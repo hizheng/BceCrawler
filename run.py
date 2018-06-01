@@ -21,8 +21,10 @@ def run():
             return
         life_cycle = sys.argv[1]
     elif(len(sys.argv) == 3):
+        life_cycle = sys.argv[1]
         start_time_str = sys.argv[2]
     elif(len(sys.argv) == 4):
+        life_cycle = sys.argv[1]
         start_time_str = sys.argv[2]
         end_time_str = sys.argv[3]
     elif(len(sys.argv) == 1):
